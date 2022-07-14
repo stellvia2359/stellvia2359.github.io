@@ -2,8 +2,10 @@
     "equipments": [
         {
             "category": "頭上",
+            "shortCategoryName": "上",
             "categorySubTitle": "Head Top",
             "categoryCode": "head-top",
+            "icon": "mdi-hat-fedora",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -1152,8 +1154,10 @@
         },
         {
             "category": "頭中",
+            "shortCategoryName": "中",
             "categorySubTitle": "Head Middle",
             "categoryCode": "head-middle",
+            "icon": "mdi-glasses",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -1554,8 +1558,10 @@
         },
         {
             "category": "頭下",
+            "shortCategoryName": "下",
             "categorySubTitle": "Head Bottom",
             "categoryCode": "head-bottom",
+            "icon": "mdi-face-mask",
             "overrideCategoryName": false,
             "hasCard": false,
             "items": [
@@ -2076,8 +2082,10 @@
         },
         {
             "category": "鎧甲",
+            "shortCategoryName": "鎧",
             "categorySubTitle": "Body",
             "categoryCode": "body",
+            "icon": "fa-solid fa-shirt",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -3382,8 +3390,10 @@
         },
         {
             "category": "武器",
+            "shortCategoryName": "武",
             "categorySubTitle": "Weapon",
             "categoryCode": "weapon",
+            "icon": "mdi-sword",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -5066,8 +5076,10 @@
         },
         {
             "category": "盾牌",
+            "shortCategoryName": "盾",
             "categorySubTitle": "Shield",
             "categoryCode": "shield",
+            "icon": "fa-solid fa-shield",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -5513,8 +5525,10 @@
         },
         {
             "category": "披肩",
+            "shortCategoryName": "披",
             "categorySubTitle": "Robe",
             "categoryCode": "robe",
+            "icon": "",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -6735,8 +6749,10 @@
         },
         {
             "category": "鞋靴",
+            "shortCategoryName": "靴",
             "categorySubTitle": "Shoes",
             "categoryCode": "shoes",
+            "icon": "",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -7720,8 +7736,10 @@
         },
         {
             "category": "飾品",
+            "shortCategoryName": "飾",
             "categorySubTitle": "Accessory",
             "categoryCode": "acc",
+            "icon": "",
             "overrideCategoryName": false,
             "hasCard": true,
             "items": [
@@ -9255,8 +9273,10 @@
         },
         {
             "category": "影子",
+            "shortCategoryName": "影",
             "categorySubTitle": "Shadow",
             "categoryCode": "shadow",
+            "icon": "",
             "overrideCategoryName": false,
             "hasCard": false,
             "items": [
@@ -10652,8 +10672,10 @@
         },
         {
             "category": "服飾附魔",
+            "shortCategoryName": "服",
             "categorySubTitle": "Costume",
             "categoryCode": "costume",
+            "icon": "",
             "overrideCategoryName": true,
             "hasCard": false,
             "items": [
@@ -11186,8 +11208,10 @@
         },
         {
             "category": "寵物",
+            "shortCategoryName": "寵",
             "categorySubTitle": "Pet",
             "categoryCode": "pet",
+            "icon": "",
             "overrideCategoryName": true,
             "hasCard": false,
             "items": [
