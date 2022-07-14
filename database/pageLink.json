@@ -1,7 +1,7 @@
 [
     {
         "title": "攻略",
-        "subTitle": "GUIDE",
+        "subTitle": "Guide",
         "icon": "mdi-book-open",
         "expand": true,
         "subPages": [
@@ -37,7 +37,7 @@
     },
     {
         "title": "雜談",
-        "subTitle": "MISC",
+        "subTitle": "Misc",
         "icon": "mdi-comment-processing-outline",
         "expand": true,
         "subPages": [
