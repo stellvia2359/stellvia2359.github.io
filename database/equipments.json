@@ -6744,6 +6744,29 @@
                             "weight": 1
                         }
                     ]
+                },
+                {
+                    "id": "e5f8e3dd-44f5-41c6-945a-8f23bc0f2385",
+                    "imgNames": [
+                        "Royal Guard Randel.png"
+                    ],
+                    "name": "闇●皇家禁衛隊 蘭達卡片",
+                    "available": true,
+                    "infos": [
+                        {
+                            "contents": [
+                                "若為皇家禁衛隊系列時，DEF+350，對全種族的物理傷害+10%。",
+                                "BaseLv為175以上時，All State+10。",
+                                "披肩精煉+10以上時，All State+10。",
+                                "搭配真●皇家禁衛隊卡片時，",
+                                "物理攻擊時,以3%的機率變身為闇●聖殿十字軍。",
+                                "變身期間,ATK+100。"
+                            ],
+                            "class": "卡片",
+                            "position": "披肩",
+                            "weight": 1
+                        }
+                    ]
                 }
             ]
         },
@@ -9166,7 +9189,7 @@
                                 "技能後延遲-4%"
                             ],
                             "class": "卡片",
-                            "position": "飾品",
+                            "position": "飾品(左)",
                             "weight": 1
                         }
                     ]
@@ -9962,7 +9985,7 @@
                             "property": "",
                             "equipmentLevel": 1,
                             "requiresLevel": 99,
-                            "usableBy": "咒術士系列",
+                            "usableBy": "大主教系列",
                             "enchantments": []
                         },
                         {
@@ -10661,6 +10684,154 @@
                             "enchantments": [
                                 {
                                     "name": "變動詠唱 -3%",
+                                    "detail": []
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "id": "05da2221-f470-42a9-944e-ed1a68ff5c1b",
+                    "imgNames": [
+                        "10.png",
+                        "11.png",
+                        "12.png",
+                        "13.png",
+                        "14.png",
+                        "15.png"
+                    ],
+                    "name": "影子皇家禁衛隊套裝(手/耳/墜/鎧/盾/靴)",
+                    "slots": 0,
+                    "available": true,
+                    "loot": "轉蛋",
+                    "externalUrls": [],
+                    "infos": [
+                        {
+                            "contents": [
+                                "<b>影子皇家禁衛隊手套</b>",
+                                "套在手上可使佩戴者發揮潛能的手套。",
+                                "限皇家禁衛隊系列裝備。",
+                                "加農砲攻擊傷害+20%。",
+                                "精煉值每+1時, 加農砲攻擊傷害+5%。"
+                            ],
+                            "class": "影子裝備",
+                            "value": 0,
+                            "position": "手套",
+                            "weight": 0,
+                            "property": "",
+                            "equipmentLevel": 1,
+                            "requiresLevel": 99,
+                            "usableBy": " 皇家禁衛隊系列",
+                            "enchantments": []
+                        },
+                        {
+                            "contents": [
+                                "<b>影子皇家禁衛隊神盾</b>",
+                                "可套在手腕上的小盾牌，有額外的防禦效果。雖然可以單獨使用，但防禦效果會降低。",
+                                "限皇家禁衛隊系列裝備。",
+                                "大地毀滅傷害+20%。",
+                                "精煉值每+1時, 大地毀滅傷害+5%。",
+                                "",
+                                "搭配影子皇家禁衛隊手套時, 會得到額外效果。",
+                                "加農砲攻擊SP消耗量-20%, 可使用化學盾牌保護 Lv.3",
+                                "",
+                                "搭配影子劍士 2種、影子十字軍 2種、影子皇家禁衛隊 2種時, 會得到以下效果。",
+                                "All State+10、MaxHP+5%、MaxSP+5%。",
+                                "對一般怪的物理/魔法防禦力忽視50%。"
+                            ],
+                            "class": "影子裝備",
+                            "value": 0,
+                            "position": "盾牌",
+                            "weight": 0,
+                            "property": "",
+                            "equipmentLevel": 1,
+                            "requiresLevel": 99,
+                            "usableBy": "皇家禁衛隊系列",
+                            "enchantments": []
+                        },
+                        {
+                            "contents": [
+                                "<b>影子十字軍鎧甲</b>",
+                                "可套在鎧甲上的鎧甲，有額外的防禦效果。雖然可以單穿，但防禦效果會降低。",
+                                "聖十字審判傷害+20%。",
+                                "精煉值每+1時，聖十字審判傷害再+5%。",
+                                "",
+                                "搭配影子十字軍戰靴時，",
+                                "聖十字攻擊傷害+20%。",
+                                "聖十字審判SP消耗量-20%。"
+                            ],
+                            "class": "影子裝備",
+                            "value": 0,
+                            "position": "鎧甲",
+                            "weight": 0,
+                            "property": "",
+                            "equipmentLevel": 1,
+                            "requiresLevel": 1,
+                            "usableBy": "全職業",
+                            "enchantments": []
+                        },
+                        {
+                            "contents": [
+                                "<b>影子十字軍戰靴</b>",
+                                "可穿在鞋子裡面的靴子，雖然可以單穿，但效果會降低。",
+                                "聖十字攻擊SP消耗量-20%。",
+                                "精煉值每+1時, 聖十字攻擊 SP消耗量再-3%。"
+                            ],
+                            "class": "影子裝備",
+                            "value": 0,
+                            "position": "戰靴",
+                            "weight": 0,
+                            "property": "",
+                            "equipmentLevel": 1,
+                            "requiresLevel": 1,
+                            "usableBy": "全職業",
+                            "enchantments": []
+                        },
+                        {
+                            "contents": [
+                                "<b>影子劍士耳環</b>",
+                                "可守護佩戴者的神聖耳環，並能引發佩戴者的潛能。",
+                                "狂擊SP消耗量-20%。",
+                                "精煉值每+1時, 狂擊 SP消耗量再-3%。",
+                                "搭配影子劍士耳環和影子劍士墜子時, 對全種族的物理傷害+1%, MAXHP+1%。",
+                                "精煉值總和為10以上, 對全種族的物理傷害+2%, MAXHP再+2%。"
+                            ],
+                            "class": "影子裝備",
+                            "value": 0,
+                            "position": "耳環",
+                            "weight": 0,
+                            "property": "",
+                            "equipmentLevel": 1,
+                            "requiresLevel": 1,
+                            "usableBy": "全職業",
+                            "enchantments": []
+                        },
+                        {
+                            "contents": [
+                                "<b>影子劍士墜子</b>",
+                                "可守護佩戴者的神聖項鍊，並能引發佩戴者的潛能。",
+                                "怒爆傷害+20%。",
+                                "精煉值每+1時, 怒爆傷害+5%。"
+                            ],
+                            "class": "影子裝備",
+                            "value": 0,
+                            "position": "墜子",
+                            "weight": 0,
+                            "property": "",
+                            "equipmentLevel": 1,
+                            "requiresLevel": 1,
+                            "usableBy": "全職業",
+                            "enchantments": [
+                                {
+                                    "name": "對所有屬性攻擊的抗性+5%。",
+                                    "detail": []
+                                },
+                                {
+                                    "name": "遭受BOSS怪物理傷害-5%",
+                                    "detail": []
+                                },
+                                {
+                                    "name": "減少攻擊後延遲 5%",
                                     "detail": []
                                 }
                             ]

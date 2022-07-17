@@ -32,6 +32,13 @@
                 "route": "/guide/cardinal_adoramus",
                 "isExternal": false,
                 "enable": true
+            },
+            {
+                "title": "創世帝國聖衛軍",
+                "subTitle": "Imperial Guard",
+                "route": "/guide/imperial_guard_genesis_ray",
+                "isExternal": false,
+                "enable": false
             }
         ]
     },
