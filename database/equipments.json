@@ -49,6 +49,12 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "83a34f0a-ceaa-4e81-b882-a91053acd6c9",
+            "f44e718e-93c6-4dcb-8d6c-20ab44fb3ee3",
+            "2af83e55-cb81-4a7b-8a2a-a5efb3b05af4",
+            "6a3b55cd-25a8-4d3e-aeb3-6e8380fd7861"
           ]
         },
         {
@@ -152,7 +158,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["142be9bf-bf4a-4252-9145-9a685cb22877"]
         },
         {
           "id": "776b4b8c-f2b7-4fbf-b995-dc6d2a0053a6",
@@ -2587,6 +2594,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "82f88a48-f3a1-40da-8750-81e4b1a06eaf",
+            "f83fd836-365c-406d-b7af-ccdd53462e0c",
+            "ba53f0b8-3321-4128-94d0-89a03d8422de"
           ]
         },
         {
@@ -2634,6 +2646,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "82f88a48-f3a1-40da-8750-81e4b1a06eaf",
+            "6a3b55cd-25a8-4d3e-aeb3-6e8380fd7861",
+            "ba53f0b8-3321-4128-94d0-89a03d8422de"
           ]
         },
         {
@@ -4514,7 +4531,8 @@
               "position": "武器",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["83a34f0a-ceaa-4e81-b882-a91053acd6c9"]
         },
         {
           "id": "aeb34e53-ccd6-451b-9f25-ff7b0ff6abb0",
@@ -5615,7 +5633,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["7321c8d4-e3ae-4943-bfc1-7769c4e5d26c"]
         },
         {
           "id": "ffb48d65-ec41-4776-90fa-f2a07087a97a",
@@ -7252,7 +7271,7 @@
                 "當新鮮玫瑰精煉+7時，對BOSS怪的魔法傷害+20%。",
                 "",
                 "搭配席琳的蝴蝶結裝備時，",
-                "固定詠唱-50%。",
+                "固定詠唱-50%，對BOSS怪的魔法傷害+20%。",
                 "當席琳的蝴蝶結精煉+7時，對玩家人類型、人類型的抗性+10%，對BOSS怪的魔法傷害+20%。",
                 "當席琳的蝴蝶結精煉+9時，對玩家人類型、人類型的抗性+2%，對BOSS怪的魔法傷害+20%。"
               ],
@@ -7266,6 +7285,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "83a34f0a-ceaa-4e81-b882-a91053acd6c9",
+            "f44e718e-93c6-4dcb-8d6c-20ab44fb3ee3",
+            "ba53f0b8-3321-4128-94d0-89a03d8422de"
           ]
         },
         {
@@ -7303,6 +7327,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "83a34f0a-ceaa-4e81-b882-a91053acd6c9",
+            "f44e718e-93c6-4dcb-8d6c-20ab44fb3ee3",
+            "ba53f0b8-3321-4128-94d0-89a03d8422de"
           ]
         },
         {
@@ -8407,6 +8436,53 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ]
+        },
+        {
+          "id": "ba53f0b8-3321-4128-94d0-89a03d8422de",
+          "imgNames": ["184.png"],
+          "name": "邪靈手套",
+          "slots": 1,
+          "available": true,
+          "loot": "恐怖玩具工廠道具兌換",
+          "externalUrls": [],
+          "infos": [
+            {
+              "contents": [
+                "充滿黑暗力量的手套，纏在手指尖端的魔法線彷彿有生命一般可以操控玩偶。",
+                "MSP+200，MHP+500。",
+                "可使用「易燃之網」",
+                "攻擊時、受到攻擊時，會自動發動基米的混亂之心。"
+              ],
+              "class": "飾品",
+              "value": 0,
+              "position": "",
+              "weight": 10,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 110,
+              "usableBy": "全職業",
+              "enchantments": [
+                {
+                  "name": "INT+2",
+                  "detail": []
+                },
+                {
+                  "name": "INT+3",
+                  "detail": []
+                },
+                {
+                  "name": "INT+4",
+                  "detail": []
+                }
+              ]
+            }
+          ],
+          "relatedIds": [
+            "83a34f0a-ceaa-4e81-b882-a91053acd6c9",
+            "f44e718e-93c6-4dcb-8d6c-20ab44fb3ee3",
+            "2af83e55-cb81-4a7b-8a2a-a5efb3b05af4",
+            "6a3b55cd-25a8-4d3e-aeb3-6e8380fd7861"
           ]
         }
       ],
@@ -10861,17 +10937,6 @@
         }
       ],
       "cards": []
-    }
-  ],
-  "sets": [
-    {
-      "id": "04f929bb-1e5e-4e19-9b6c-5e721e296c7d",
-      "components": [
-        {
-          "id": "82f88a48-f3a1-40da-8750-81e4b1a06eaf",
-          "isCard": false
-        }
-      ]
     }
   ]
 }
