@@ -159,7 +159,10 @@
               ]
             }
           ],
-          "relatedIds": ["142be9bf-bf4a-4252-9145-9a685cb22877"]
+          "relatedIds": [
+            "142be9bf-bf4a-4252-9145-9a685cb22877",
+            "b839a3ad-8a09-41a7-9143-12dfac7af46b"
+          ]
         },
         {
           "id": "776b4b8c-f2b7-4fbf-b995-dc6d2a0053a6",
@@ -687,7 +690,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["e2aae17d-0a3d-4e16-aa3c-2d174eb2ac91"]
         },
         {
           "id": "09ac01ca-bd4b-4f5d-b869-ca904b6be447",
@@ -723,6 +727,11 @@
               "usableBy": "咒術士系列",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "a34dc2aa-fdc3-4fb8-8b3f-9b5e6d293d95",
+            "8697da4a-6da9-4c0c-8af3-0a4a3878de48",
+            "2694bc19-f1b1-4257-aa38-1b5e48b92a43"
           ]
         },
         {
@@ -756,6 +765,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "e2aae17d-0a3d-4e16-aa3c-2d174eb2ac91",
+            "9034935f-bb0f-4084-b319-b97601c38eea"
           ]
         }
       ],
@@ -856,6 +869,10 @@
               "position": "頭具",
               "weight": 1
             }
+          ],
+          "relatedIds": [
+            "caad13bc-a1e1-49a8-9ada-d448d7088603",
+            "b839a3ad-8a09-41a7-9143-12dfac7af46b"
           ]
         },
         {
@@ -1057,6 +1074,10 @@
               "position": "頭具",
               "weight": 1
             }
+          ],
+          "relatedIds": [
+            "eef81a76-fa0a-4e2c-8b14-2a8340dc0dc8",
+            "d24bec85-acce-47af-a42c-7b9a312ce23a"
           ]
         }
       ]
@@ -1093,7 +1114,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["a1549ed6-8f9d-4bcf-b4af-5e46f00d840d"]
         },
         {
           "id": "9ef44931-4623-4029-b9aa-ca64f69c9f1f",
@@ -1118,7 +1140,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["a1549ed6-8f9d-4bcf-b4af-5e46f00d840d"]
         },
         {
           "id": "0607293b-06f9-4b39-9f52-8de29ca25b94",
@@ -1202,6 +1225,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "b66571b3-c44b-463a-ace5-454a03d8696c",
+            "176a066e-e92a-44d1-83f7-d9b0d013f1ca",
+            "19ea1306-84ee-4855-a1a2-e4b7b743b4b9"
           ]
         },
         {
@@ -1286,7 +1314,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["ed53e0d0-2c69-4692-bf69-657aa5c50c1b"]
         },
         {
           "id": "3049a8ee-a1e7-41ea-b0f6-220d65c92871",
@@ -1318,6 +1347,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "ad03d2a0-8429-450f-bc5c-e5e61e359359",
+            "1e46c2b9-f9c0-4f6e-966b-9d4e592f4595"
           ]
         },
         {
@@ -1344,7 +1377,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["a1549ed6-8f9d-4bcf-b4af-5e46f00d840d"]
         },
         {
           "id": "d0cc8a21-94dc-4350-9f02-8e44c510fc00",
@@ -1369,7 +1403,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["a1549ed6-8f9d-4bcf-b4af-5e46f00d840d"]
         },
         {
           "id": "6d1b2cc2-9a84-4d40-856a-c9f8e79e5f48",
@@ -1398,6 +1433,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "7754deab-917c-4710-97a4-7f7825a238ea",
+            "f7f8eea9-2e6a-4994-ab79-d8fde2883428"
           ]
         },
         {
@@ -1427,6 +1466,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "1eea82b2-b01f-4724-ad6a-c0bfe9f9153d",
+            "e99834bf-7446-4fe1-9d46-827f877c2464"
           ]
         }
       ],
@@ -1878,6 +1921,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "3049a8ee-a1e7-41ea-b0f6-220d65c92871",
+            "1e46c2b9-f9c0-4f6e-966b-9d4e592f4595"
           ]
         },
         {
@@ -1924,6 +1971,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "aa30205d-934f-467c-9697-9c88c1d033cb",
+            "b5e6dcc4-d27e-4b4d-84e2-8a504f79bda1",
+            "956b8fb6-5cc0-4ce9-ad7c-a649233a3b56"
           ]
         }
       ],
@@ -2379,6 +2431,11 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "02ed5549-ffb2-49d1-aa25-5246736b4b4e",
+            "b5e6dcc4-d27e-4b4d-84e2-8a504f79bda1",
+            "956b8fb6-5cc0-4ce9-ad7c-a649233a3b56"
           ]
         },
         {
@@ -4399,6 +4456,49 @@
               ]
             }
           ]
+        },
+        {
+          "id": "2694bc19-f1b1-4257-aa38-1b5e48b92a43",
+          "imgNames": ["185.png"],
+          "name": "萬有引力法杖",
+          "slots": 2,
+          "available": true,
+          "loot": "EDDA活體研究所",
+          "externalUrls": [],
+          "infos": [
+            {
+              "contents": [
+                "利用地心引力來增加能力的法杖。",
+                "MATK+280，不可破壞。",
+                "無屬性魔法傷害+5%。",
+                "精煉每+1時，MATK+4。",
+                "精煉+9時，[重力原野、吸星大法]傷害+30%。",
+                "精煉+11時，[重力原野]冷卻時間-2秒。"
+              ],
+              "class": "雙手杖",
+              "value": 110,
+              "position": "",
+              "weight": 130,
+              "property": "",
+              "equipmentLevel": 4,
+              "requiresLevel": 170,
+              "usableBy": "咒術士系列",
+              "enchantments": [
+                {
+                  "name": "凱特莉娜的記憶",
+                  "detail": [
+                    "碧血玫瑰法杖精煉每+3時，[地獄火焰]傷害+7%、[碧血隕石]傷害+5%。",
+                    "天降奇蹟法杖精煉每+3時，[聖靈召喚、念力連擊]傷害+10%，[靈魂爆炸]傷害+5%。",
+                    "萬有引力法杖精煉每+3時，[重力原野]傷害+10%、[吸星大法]傷害+5%。"
+                  ]
+                },
+                {
+                  "name": "魔力Lv.1",
+                  "detail": ["MATK+6", "變動詠唱時間縮短4%"]
+                }
+              ]
+            }
+          ]
         }
       ],
       "cards": [
@@ -4723,6 +4823,24 @@
                 "對動物型怪/喵族的魔法攻擊力 +15%。",
                 "搭配史皮卡 奈里烏思卡片時，",
                 "對小型、動物型怪/喵族的魔法攻擊力再 +5%。"
+              ],
+              "class": "卡片",
+              "position": "武器",
+              "weight": 1
+            }
+          ]
+        },
+        {
+          "id": "19ea1306-84ee-4855-a1a2-e4b7b743b4b9",
+          "imgNames": ["Tendrilrion.png"],
+          "name": "三角狂獅獸卡片",
+          "available": true,
+          "infos": [
+            {
+              "contents": [
+                "CRI+5，",
+                "精煉+12以上時，ATK+35。",
+                "精煉+14以上時，CRI+10。"
               ],
               "class": "卡片",
               "position": "武器",
@@ -5215,6 +5333,15 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "02ed5549-ffb2-49d1-aa25-5246736b4b4e",
+            "aa30205d-934f-467c-9697-9c88c1d033cb",
+            "956b8fb6-5cc0-4ce9-ad7c-a649233a3b56",
+            "3bc77d3e-1ffa-4f24-b371-0b379631a767",
+            "e1f44aef-ff39-4bb3-985c-9612bb080852",
+            "8e6b622d-fa08-445a-91cd-296f972d1432",
+            "ddcb15d5-160b-4e18-b719-beee6eeb8fb4"
           ]
         },
         {
@@ -6366,6 +6493,14 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "02ed5549-ffb2-49d1-aa25-5246736b4b4e",
+            "aa30205d-934f-467c-9697-9c88c1d033cb",
+            "b5e6dcc4-d27e-4b4d-84e2-8a504f79bda1",
+            "3bc77d3e-1ffa-4f24-b371-0b379631a767",
+            "e1f44aef-ff39-4bb3-985c-9612bb080852",
+            "0238f086-d217-4e0d-87c3-2068b4f1ee0b"
           ]
         },
         {
@@ -7724,6 +7859,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "b5e6dcc4-d27e-4b4d-84e2-8a504f79bda1",
+            "956b8fb6-5cc0-4ce9-ad7c-a649233a3b56"
           ]
         },
         {
@@ -7758,6 +7897,12 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "b5e6dcc4-d27e-4b4d-84e2-8a504f79bda1",
+            "956b8fb6-5cc0-4ce9-ad7c-a649233a3b56",
+            "8e6b622d-fa08-445a-91cd-296f972d1432",
+            "ddcb15d5-160b-4e18-b719-beee6eeb8fb4"
           ]
         },
         {
@@ -8194,7 +8339,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["6d1b2cc2-9a84-4d40-856a-c9f8e79e5f48"]
         },
         {
           "id": "f7f8eea9-2e6a-4994-ab79-d8fde2883428",
@@ -8238,7 +8384,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["6d1b2cc2-9a84-4d40-856a-c9f8e79e5f48"]
         },
         {
           "id": "1eea82b2-b01f-4724-ad6a-c0bfe9f9153d",
@@ -8282,7 +8429,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["f32947d9-66ac-45e4-92a0-956f5beccfc6"]
         },
         {
           "id": "e99834bf-7446-4fe1-9d46-827f877c2464",
@@ -8326,7 +8474,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["f32947d9-66ac-45e4-92a0-956f5beccfc6"]
         },
         {
           "id": "caa6bb1b-2404-4cf2-a593-40b1b4296317",
@@ -8486,6 +8635,41 @@
             "2af83e55-cb81-4a7b-8a2a-a5efb3b05af4",
             "6a3b55cd-25a8-4d3e-aeb3-6e8380fd7861"
           ]
+        },
+        {
+          "id": "1e46c2b9-f9c0-4f6e-966b-9d4e592f4595",
+          "imgNames": ["134.png"],
+          "name": "魔力星環",
+          "slots": 1,
+          "available": true,
+          "loot": "消費禮",
+          "externalUrls": [],
+          "infos": [
+            {
+              "contents": [
+                "在中世紀，人們流傳著一個神秘的魔法大師，該巫師以詩人創作詩歌的方式創造魔法，而當時佩戴的指環潛在著相當多的魔力。",
+                "",
+                "變動詠唱 -20%、ASPD+1。",
+                "魔法攻擊時，有機率觸發自動念咒魔法省悟1級。",
+                "物理攻擊時，有機率隨機觸發箭術系列技能Lv.3。",
+                "",
+                "搭配魔力之星時，",
+                "ATK +30、MATK +30。",
+                "變動詠唱再 -5%，固定詠唱 -0.2秒。",
+                "對BOSS怪的魔法傷害 +20%。"
+              ],
+              "class": "飾品",
+              "value": 0,
+              "position": "",
+              "weight": 30,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 100,
+              "usableBy": "全職業",
+              "enchantments": []
+            }
+          ],
+          "relatedIds": ["3049a8ee-a1e7-41ea-b0f6-220d65c92871"]
         }
       ],
       "cards": [
