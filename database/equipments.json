@@ -169,6 +169,58 @@
           ]
         },
         {
+          "id": "5261671e-b2d9-41fd-9a99-f0eb8ec5f36b",
+          "imgNames": ["64.png"],
+          "name": "神秘徐風之耳語",
+          "slots": 1,
+          "available": true,
+          "loot": "「(服裝)神秘徐風之耳語 x 1」、「魔法師之魂 x 1」、「能量碎片 x 20」，至戰死者之墓的「淒惘靈魂的思念」機率取得；若後兩者為5倍材料則100%成功。",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=1246#subContainer"
+            }
+          ],
+          "infos": [
+            {
+              "contents": [
+                "<span class='text-red'>該物品不可與其它帳號交易。</span>",
+                "All State+1、MDEF+5，SP恢復力+20%。",
+                "當精煉+1時，MATK+1%、ATK+4。",
+                "當精煉+2時，MHP，MSP+1%。",
+                "精煉每+2時，劇毒猛擊的傷害+15%。",
+                "精煉每+2時，聖槍刺擊的傷害+20%。"
+              ],
+              "class": "頭具",
+              "value": 10,
+              "position": "頭上",
+              "weight": 10,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 170,
+              "usableBy": "妖術師",
+              "enchantments": [
+                {
+                  "name": "INT+5",
+                  "detail": []
+                },
+                {
+                  "name": "INT+5",
+                  "detail": []
+                },
+                {
+                  "name": "魔精Lv.5",
+                  "detail": ["MATK+20%，固詠 -0.5秒。"]
+                }
+              ]
+            }
+          ],
+          "relatedIds": [
+            "142be9bf-bf4a-4252-9145-9a685cb22877",
+            "b839a3ad-8a09-41a7-9143-12dfac7af46b"
+          ]
+        },
+        {
           "id": "776b4b8c-f2b7-4fbf-b995-dc6d2a0053a6",
           "imgNames": ["1.png"],
           "name": "心型羽翼髮夾",
@@ -438,6 +490,10 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "142be9bf-bf4a-4252-9145-9a685cb22877",
+            "b839a3ad-8a09-41a7-9143-12dfac7af46b"
           ]
         },
         {
@@ -2074,6 +2130,39 @@
             "b5e6dcc4-d27e-4b4d-84e2-8a504f79bda1",
             "956b8fb6-5cc0-4ce9-ad7c-a649233a3b56"
           ]
+        },
+        {
+          "id": "fc52a546-16e1-455d-ab81-e849ce031af0",
+          "imgNames": ["63.png"],
+          "name": "時光智慧天地樹苗",
+          "slots": 0,
+          "available": true,
+          "loot": "轉蛋",
+          "externalUrls": [],
+          "infos": [
+            {
+              "contents": [
+                "成為這個世界根源的天地樹葉子，與時光裝備產生共鳴後，激發出隱藏的力量。",
+                "搭配時光智慧斗篷、智慧湧現魔甲一起裝備時，變動詠唱-10%。",
+                "精煉值總和為14以上，MATK+80,",
+                "精煉值總和為18以上，全屬性魔法傷害+10%，技能後延遲-7%。",
+                "精煉值總和為22以上，對全體型敵人的魔法傷害+10%。"
+              ],
+              "class": "頭具",
+              "value": 0,
+              "position": "頭下",
+              "weight": 5,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 100,
+              "usableBy": "全職業",
+              "enchantments": []
+            }
+          ],
+          "relatedIds": [
+            "3e93875c-8c5e-471e-a369-4c0359116f4f",
+            "f45cd689-cca2-46f7-8bbe-0c5e4ec2a50f"
+          ]
         }
       ],
       "cards": []
@@ -2335,6 +2424,10 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "b608947b-69fd-4aa7-8814-c518e8ac6aa2",
+            "0fc110ff-c400-4c15-abd5-57904414cdeb"
           ]
         },
         {
@@ -2383,6 +2476,12 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "fc52a546-16e1-455d-ab81-e849ce031af0",
+            "f45cd689-cca2-46f7-8bbe-0c5e4ec2a50f",
+            "8e6b622d-fa08-445a-91cd-296f972d1432",
+            "b3467538-f22e-432f-ac07-d1a4b0d4a5cf"
           ]
         },
         {
@@ -3290,6 +3389,10 @@
               "position": "鎧甲",
               "weight": 1
             }
+          ],
+          "relatedIds": [
+            "06935e6e-26f6-4f97-ad94-e8aa6f74f16a",
+            "caad13bc-a1e1-49a8-9ada-d448d7088603"
           ]
         },
         {
@@ -3654,7 +3757,8 @@
               "usableBy": "咒術士",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["89ee7678-e280-4a4b-bba0-6ea722fb946e"]
         },
         {
           "id": "5ff8ab7f-281a-42be-8314-b45cbc681176",
@@ -4131,7 +4235,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["89ee7678-e280-4a4b-bba0-6ea722fb946e"]
         },
         {
           "id": "f7aa8f9a-c91c-4ea1-849a-c4c4ce3068cc",
@@ -4180,7 +4285,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["ba8f0c8a-8f12-4f40-afd9-6a52ce1b73af"]
         },
         {
           "id": "a844f521-8433-44ec-a10f-70aec6bcac22",
@@ -4309,7 +4415,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["89ee7678-e280-4a4b-bba0-6ea722fb946e"]
         },
         {
           "id": "b5a6b489-e298-458c-9cd1-3cde72d71242",
@@ -4352,7 +4459,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["ba8f0c8a-8f12-4f40-afd9-6a52ce1b73af"]
         },
         {
           "id": "a34dc2aa-fdc3-4fb8-8b3f-9b5e6d293d95",
@@ -4536,7 +4644,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["ba8f0c8a-8f12-4f40-afd9-6a52ce1b73af"]
         },
         {
           "id": "c82d1c2a-b8cb-4942-a53c-23daa1b5da07",
@@ -4582,7 +4691,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["89ee7678-e280-4a4b-bba0-6ea722fb946e"]
         },
         {
           "id": "8697da4a-6da9-4c0c-8af3-0a4a3878de48",
@@ -4684,7 +4794,8 @@
               "position": "武器",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["e60918f6-76c2-4f15-90e0-42abed241df2"]
         },
         {
           "id": "0c832ae1-8916-494d-a566-f5225ebee6c5",
@@ -4872,7 +4983,8 @@
               "position": "武器",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["2cc36d2b-e7ba-4bed-810a-1604388f0230"]
         },
         {
           "id": "4dea450a-6fa5-41a4-8beb-5a6539e49765",
@@ -4908,7 +5020,8 @@
               "position": "武器",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["10c3965b-8c1f-457c-b4cb-b2c7da6420eb"]
         },
         {
           "id": "bfe82ba8-b11b-45af-8d9d-dddf2acfbfb6",
@@ -5386,7 +5499,8 @@
               "position": "盾牌",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["ddc041a1-6a0d-4ed0-b257-79b6a0e2a58a"]
         },
         {
           "id": "19a89ba1-2b41-46df-8c85-389cd4b0a350",
@@ -5559,6 +5673,11 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "8e6b622d-fa08-445a-91cd-296f972d1432",
+            "b3467538-f22e-432f-ac07-d1a4b0d4a5cf",
+            "fc52a546-16e1-455d-ab81-e849ce031af0"
           ]
         },
         {
@@ -5975,7 +6094,10 @@
               ]
             }
           ],
-          "relatedIds": ["7321c8d4-e3ae-4943-bfc1-7769c4e5d26c"]
+          "relatedIds": [
+            "7321c8d4-e3ae-4943-bfc1-7769c4e5d26c",
+            "47170d88-691e-49c0-a6d0-fd9afd044206"
+          ]
         },
         {
           "id": "ffb48d65-ec41-4776-90fa-f2a07087a97a",
@@ -6086,6 +6208,10 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "c0cab7ab-de12-4d5f-ba0c-b83c8aae60ea",
+            "0fc110ff-c400-4c15-abd5-57904414cdeb"
           ]
         },
         {
@@ -6262,7 +6388,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["9034935f-bb0f-4084-b319-b97601c38eea"]
         },
         {
           "id": "1079c679-9711-461f-9ebd-c26512cbd8c6",
@@ -6499,7 +6626,8 @@
               "position": "披肩",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["acf6df17-3ce9-40e0-8054-379edf96aae1"]
         },
         {
           "id": "b640a165-77a2-4937-87eb-df12116e016f",
@@ -6591,7 +6719,8 @@
               "position": "披肩",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["acd4ff8a-18ed-4e38-9e51-3e36a70fdacf"]
         },
         {
           "id": "2e4fc34f-1279-41ec-a6bd-012fdedd414d",
@@ -6734,7 +6863,8 @@
             "b5e6dcc4-d27e-4b4d-84e2-8a504f79bda1",
             "3bc77d3e-1ffa-4f24-b371-0b379631a767",
             "e1f44aef-ff39-4bb3-985c-9612bb080852",
-            "0238f086-d217-4e0d-87c3-2068b4f1ee0b"
+            "0238f086-d217-4e0d-87c3-2068b4f1ee0b",
+            "0fc110ff-c400-4c15-abd5-57904414cdeb"
           ]
         },
         {
@@ -6837,7 +6967,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["0fc110ff-c400-4c15-abd5-57904414cdeb"]
         },
         {
           "id": "8e6b622d-fa08-445a-91cd-296f972d1432",
@@ -6845,7 +6976,7 @@
           "name": "時光智慧戰靴",
           "slots": 1,
           "available": true,
-          "loot": "於古城副本門口 以「時光結晶 x 1」兌換「時光戰靴」 以「時光戰靴 x 1」、「時光結晶 x 5」兌換「時光智慧戰靴」 以「時光結晶 x 5」打洞",
+          "loot": "於古城副本門口兌換",
           "externalUrls": [
             {
               "name": "相關資訊",
@@ -6858,7 +6989,8 @@
                 "雖年代久遠，卻依然如新毫無毀損的神奇戰靴。",
                 "MHP+300，MSP+30。",
                 "精煉每+3時，MHP+100，MSP+10，MATK+10。",
-                "基本屬性INT 120以上時，MATK+60。"
+                "基本屬性INT 120以上時，MATK+60。",
+                "MDEF+5。"
               ],
               "class": "鞋子",
               "value": 20,
@@ -6881,6 +7013,62 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "f45cd689-cca2-46f7-8bbe-0c5e4ec2a50f",
+            "3e93875c-8c5e-471e-a369-4c0359116f4f",
+            "fc52a546-16e1-455d-ab81-e849ce031af0",
+            "0fc110ff-c400-4c15-abd5-57904414cdeb"
+          ]
+        },
+        {
+          "id": "b3467538-f22e-432f-ac07-d1a4b0d4a5cf",
+          "imgNames": ["58.png"],
+          "name": "變異智慧戰靴",
+          "slots": 1,
+          "available": true,
+          "loot": "於古城副本門口兌換",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=1703"
+            }
+          ],
+          "infos": [
+            {
+              "contents": [
+                "確定是很久以前製造的, 卻依舊是完好如初的神奇戰靴。",
+                "MHP+300，MSP+30。",
+                "精煉每+3時，MHP+100，MSP+10，MATK+10。",
+                "基本屬性INT 120以上時，MATK+60。",
+                "MDEF+5。"
+              ],
+              "class": "鞋子",
+              "value": 20,
+              "position": "",
+              "weight": 60,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 99,
+              "usableBy": "叛亂者、月影/日影忍者、拳皇、獵靈士",
+              "enchantments": [
+                {
+                  "name": "魔力Lv.5",
+                  "detail": ["MATK+18", "變動詠唱時間縮短 10%"]
+                },
+                {
+                  "name": "暴走魔法",
+                  "detail": [
+                    "魔法攻擊時有較低機率10秒內獲得暴走魔法的能量(2%機率INT+200)，但每秒會減少SP200，卸除裝備時，SP扣2000。"
+                  ]
+                }
+              ]
+            }
+          ],
+          "relatedIds": [
+            "f45cd689-cca2-46f7-8bbe-0c5e4ec2a50f",
+            "3e93875c-8c5e-471e-a369-4c0359116f4f",
+            "0fc110ff-c400-4c15-abd5-57904414cdeb"
           ]
         },
         {
@@ -6913,7 +7101,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["06935e6e-26f6-4f97-ad94-e8aa6f74f16a"]
         },
         {
           "id": "1efd77d7-f1a3-4639-b1dc-a62d2452185f",
@@ -6944,7 +7133,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["5d062a96-cfd2-4cc4-bb9c-e1e1033c2762"]
         },
         {
           "id": "837e046d-270c-4619-8d2a-7f5f4abe33e2",
@@ -7134,7 +7324,8 @@
               "usableBy": "全職業",
               "enchantments": []
             }
-          ]
+          ],
+          "relatedIds": ["18c4b573-2836-4997-8dcf-1a5cf328950c"]
         },
         {
           "id": "794cd06c-ca3c-4e01-b04e-bc3c7cb380e6",
@@ -7201,6 +7392,12 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "4d949959-824f-418a-b631-6b254c867500",
+            "c82d1c2a-b8cb-4942-a53c-23daa1b5da07",
+            "c234f006-6e25-4a4c-9b24-66fa27c9b41f",
+            "3064489c-2ef7-4bfe-b514-181ff6aa6769"
           ]
         },
         {
@@ -7233,6 +7430,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "f7aa8f9a-c91c-4ea1-849a-c4c4ce3068cc",
+            "218f9d90-8509-405d-a676-3d9c512fcd8f",
+            "b5a6b489-e298-458c-9cd1-3cde72d71242"
           ]
         },
         {
@@ -7376,6 +7578,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "caa6bb1b-2404-4cf2-a593-40b1b4296317",
+            "f99cd002-a73b-4e48-a91e-3361963cbb19"
           ]
         }
       ],
@@ -7452,7 +7658,8 @@
               "position": "鞋靴",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["1efd77d7-f1a3-4639-b1dc-a62d2452185f"]
         },
         {
           "id": "ceb249eb-4d48-4edb-8b43-0d6af37d90d6",
@@ -7500,7 +7707,8 @@
               "position": "鞋靴",
               "weight": 1
             }
-          ]
+          ],
+          "relatedIds": ["ac1e760d-aa50-4739-88c4-265baafb53b8"]
         },
         {
           "id": "62695ef9-9e31-4fee-8317-c051c8bbb640",
@@ -7809,6 +8017,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "ad3da4a9-0d73-4efc-93fa-cee0d2df89b9",
+            "9a065da2-19f2-4fc2-a300-7136f2496126"
           ]
         },
         {
@@ -7955,6 +8167,14 @@
                 }
               ]
             }
+          ],
+          "relatedIds": [
+            "956b8fb6-5cc0-4ce9-ad7c-a649233a3b56",
+            "ddcb15d5-160b-4e18-b719-beee6eeb8fb4",
+            "8e6b622d-fa08-445a-91cd-296f972d1432",
+            "b3467538-f22e-432f-ac07-d1a4b0d4a5cf",
+            "c0cab7ab-de12-4d5f-ba0c-b83c8aae60ea",
+            "b608947b-69fd-4aa7-8814-c518e8ac6aa2"
           ]
         },
         {
@@ -7999,6 +8219,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "28d67eaa-e287-412f-9fb3-5278d0a59109",
+            "b67f7518-ba0d-4581-9eb2-12714ad2720c"
           ]
         },
         {
@@ -8044,7 +8268,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["ee0d3ea7-0c3b-401d-b745-5dfc696a2e94"]
         },
         {
           "id": "b67f7518-ba0d-4581-9eb2-12714ad2720c",
@@ -8089,7 +8314,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["ee0d3ea7-0c3b-401d-b745-5dfc696a2e94"]
         },
         {
           "id": "3bc77d3e-1ffa-4f24-b371-0b379631a767",
@@ -8204,6 +8430,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "142be9bf-bf4a-4252-9145-9a685cb22877",
+            "b839a3ad-8a09-41a7-9143-12dfac7af46b",
+            "caad13bc-a1e1-49a8-9ada-d448d7088603"
           ]
         },
         {
@@ -8236,6 +8467,12 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "47170d88-691e-49c0-a6d0-fd9afd044206",
+            "0cdcc949-0be3-47ef-9fd2-cdeee152f333",
+            "45f68dde-b6f4-43e5-90f3-f474f024b6ae",
+            "9a065da2-19f2-4fc2-a300-7136f2496126"
           ]
         },
         {
@@ -8268,6 +8505,11 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "142be9bf-bf4a-4252-9145-9a685cb22877",
+            "caad13bc-a1e1-49a8-9ada-d448d7088603",
+            "412fca53-8a48-449d-a912-fb1ac2d889b4"
           ]
         },
         {
@@ -8419,7 +8661,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["afdbd231-58be-48a0-b8e0-5e91d70750b9"]
         },
         {
           "id": "21ca1c9c-59ca-4985-9c62-00edf32ac252",
@@ -8468,7 +8711,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["afdbd231-58be-48a0-b8e0-5e91d70750b9"]
         },
         {
           "id": "afdbd231-58be-48a0-b8e0-5e91d70750b9",
@@ -8517,6 +8761,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "8d8d789b-7379-4d47-a861-fd5469ad7a48",
+            "21ca1c9c-59ca-4985-9c62-00edf32ac252"
           ]
         },
         {
@@ -8564,6 +8812,60 @@
               "usableBy": "3轉魔法師系列",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "47170d88-691e-49c0-a6d0-fd9afd044206",
+            "7321c8d4-e3ae-4943-bfc1-7769c4e5d26c",
+            "45f68dde-b6f4-43e5-90f3-f474f024b6ae",
+            "524010fe-f445-4b8f-a6ac-4bcac0d6110b",
+            "5261671e-b2d9-41fd-9a99-f0eb8ec5f36b"
+          ]
+        },
+        {
+          "id": "412fca53-8a48-449d-a912-fb1ac2d889b4",
+          "imgNames": ["162.png"],
+          "name": "思念體忿恨因子研究錄(服事篇)",
+          "slots": 1,
+          "available": true,
+          "loot": "轉蛋",
+          "externalUrls": [],
+          "infos": [
+            {
+              "contents": [
+                "ATK+5%、MATK+5%，",
+                "MaxHP+10%。",
+                "",
+                "當搭配「神秘主教冠」時，",
+                "固定詠唱-0.3秒，",
+                "治癒系技能治癒量+30%。",
+                "",
+                "當搭配「神秘燃燒之魂」時，",
+                "遠距離物理傷害+15%，",
+                "爆氣散彈傷害+30%。",
+                "",
+                "當搭配「思念體破壞因子研究錄(服事篇)」時，",
+                "MaxHP+15%。",
+                "",
+                "當搭配「闇●神官 瑪嘉雷特卡片」時，",
+                "MaxHP+40%。",
+                "",
+                "當搭配「闇●武術宗師 陳理歐卡片」時，",
+                "對全屬性對象的物理傷害+25%。"
+              ],
+              "class": "飾品",
+              "value": 0,
+              "position": "",
+              "weight": 10,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 100,
+              "usableBy": "服事系列",
+              "enchantments": []
+            }
+          ],
+          "relatedIds": [
+            "408ff80c-d1d5-4970-9de4-ba40711527f4",
+            "9a065da2-19f2-4fc2-a300-7136f2496126"
           ]
         },
         {
@@ -8793,6 +9095,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "b866c862-2089-401e-9aaf-05723266f186",
+            "f99cd002-a73b-4e48-a91e-3361963cbb19"
           ]
         },
         {
@@ -8839,6 +9145,10 @@
               "usableBy": "全職業",
               "enchantments": []
             }
+          ],
+          "relatedIds": [
+            "b866c862-2089-401e-9aaf-05723266f186",
+            "caa6bb1b-2404-4cf2-a593-40b1b4296317"
           ]
         },
         {
@@ -9306,7 +9616,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "咒術士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "name": "影子連鎖電擊耳環",
@@ -9323,7 +9646,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "咒術士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "name": "影子連鎖電擊墜子",
@@ -9355,7 +9691,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["cb51cd34-dc35-489f-a796-b649e7f39d13"]
         },
         {
           "id": "b59f9327-8637-4bec-8f7e-0ef3ee6f13d3",
@@ -9389,7 +9726,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "大主教系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9406,7 +9756,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "大主教系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9438,7 +9801,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["944ea43d-6180-4171-b6a3-35c87325ceb4"]
         },
         {
           "id": "0765705c-359e-49e6-8b3e-fdd862aa152f",
@@ -9608,7 +9972,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "咒術士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9633,7 +10010,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "咒術士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9654,7 +10044,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9671,7 +10074,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9690,7 +10106,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9722,7 +10151,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["bc7bc9e5-a819-4792-bf6a-380c0380091f"]
         },
         {
           "id": "d7db7d72-4fcb-453a-aae4-770a2eba2dc9",
@@ -9731,7 +10161,12 @@
           "slots": 0,
           "available": true,
           "loot": "轉蛋",
-          "externalUrls": [],
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=1225"
+            }
+          ],
           "infos": [
             {
               "contents": [
@@ -9747,7 +10182,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+2%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-2%",
+                  "detail": []
+                },
+                {
+                  "name": "ASPD + 1",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9763,7 +10211,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+2%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-2%",
+                  "detail": []
+                },
+                {
+                  "name": "ASPD + 1",
+                  "detail": []
+                }
+              ]
             }
           ]
         },
@@ -9799,7 +10260,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+3%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-2%",
+                  "detail": []
+                },
+                {
+                  "name": "ASPD + 1",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9817,7 +10291,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+3%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-2%",
+                  "detail": []
+                },
+                {
+                  "name": "ASPD + 1",
+                  "detail": []
+                }
+              ]
             }
           ]
         },
@@ -9853,7 +10340,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+3%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-2%",
+                  "detail": []
+                },
+                {
+                  "name": "ASPD + 1",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9871,7 +10371,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+3%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-2%",
+                  "detail": []
+                },
+                {
+                  "name": "ASPD + 1",
+                  "detail": []
+                }
+              ]
             }
           ]
         },
@@ -9907,7 +10420,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "大主教系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9932,7 +10458,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "大主教系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9953,7 +10492,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9970,7 +10522,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -9989,7 +10554,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10021,7 +10599,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["b59f9327-8637-4bec-8f7e-0ef3ee6f13d3"]
         },
         {
           "id": "0817be00-6518-4c56-9401-abdceeeee214",
@@ -10055,7 +10634,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "悟靈士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10072,7 +10664,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "悟靈士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10138,7 +10743,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "悟靈士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10155,7 +10773,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "悟靈士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10223,7 +10854,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 100,
               "usableBy": "獵靈士",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10241,7 +10885,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 100,
               "usableBy": "獵靈士",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             }
           ]
         },
@@ -10277,7 +10934,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "咒術士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10294,7 +10964,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "咒術士系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10641,7 +11324,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": " 皇家禁衛隊系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10666,7 +11362,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 99,
               "usableBy": "皇家禁衛隊系列",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10687,7 +11396,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10704,7 +11426,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10723,7 +11458,20 @@
               "equipmentLevel": 1,
               "requiresLevel": 1,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
             },
             {
               "contents": [
@@ -10755,7 +11503,118 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["e5b75b0b-666a-4868-9a9c-cd997abe191e"]
+        },
+        {
+          "id": "e5b75b0b-666a-4868-9a9c-cd997abe191e",
+          "imgNames": ["10.png", "14.png", "15.png"],
+          "name": "影子創世之光套裝(手/耳/墜)",
+          "slots": 0,
+          "available": true,
+          "loot": "轉蛋",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=3643"
+            }
+          ],
+          "infos": [
+            {
+              "name": "影子創世之光手套",
+              "contents": [
+                "套在手上可使佩戴者發揮潛能的手套。",
+                "聖屬性魔法傷害+3%。",
+                "精煉+7時，聖屬性魔法傷害再+3%，",
+                "精煉+9時，聖屬性魔法傷害再+4%。",
+                "搭配影子創世之光手套/墜子/耳環時，創世之光傷害%增加至精煉總合。",
+                "搭配影子皇家禁衛隊神盾時，無視玩家型除外的全種族魔法防禦力40%，再無視影子創世之光手套/影子皇家禁衛隊神盾精煉值總和的魔法防禦力。"
+              ],
+              "class": "影子裝備",
+              "value": 0,
+              "position": "手套",
+              "weight": 0,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 99,
+              "usableBy": "皇家禁衛隊系列",
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
+            },
+            {
+              "name": "影子連鎖電擊耳環",
+              "contents": [
+                "可守護佩戴者的神聖耳環，並能引發佩戴者的潛能。",
+                "創世之光技能冷卻時間-0.2秒。",
+                "精煉每+3時, 創世之光技能冷卻時間再-0.1秒。"
+              ],
+              "class": "影子裝備",
+              "value": 0,
+              "position": "耳環",
+              "weight": 0,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 99,
+              "usableBy": "皇家禁衛隊系列",
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
+            },
+            {
+              "name": "影子連鎖電擊墜子",
+              "contents": [
+                "可守護佩戴者的神聖項鍊，並能引發佩戴者的潛能。",
+                "創世之光傷害+5%。",
+                "精煉每+2時, 創世之光傷害+2%。"
+              ],
+              "class": "影子裝備",
+              "value": 0,
+              "position": "墜子",
+              "weight": 0,
+              "property": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 99,
+              "usableBy": "皇家禁衛隊系列",
+              "enchantments": [
+                {
+                  "name": "對所有屬性攻擊的抗性+5%。",
+                  "detail": []
+                },
+                {
+                  "name": "遭受BOSS怪物理傷害-5%",
+                  "detail": []
+                },
+                {
+                  "name": "減少攻擊後延遲 5%",
+                  "detail": []
+                }
+              ]
+            }
+          ],
+          "relatedIds": ["05da2221-f470-42a9-944e-ed1a68ff5c1b"]
         }
       ],
       "cards": []
