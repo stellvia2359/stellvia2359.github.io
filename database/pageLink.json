@@ -1,153 +1,180 @@
 [
-    {
-        "title": "攻略",
-        "subTitle": "Guide",
-        "icon": "mdi-book-open",
-        "expand": true,
-        "subPages": [
-            {
-                "title": "風念禁咒魔導士",
-                "subTitle": "Arch Mage",
-                "route": "/guide/arch_mage_wind_ghost",
-                "isExternal": false,
-                "enable": true
-            },
-            {
-                "title": "火禁咒魔導士",
-                "subTitle": "Arch Mage",
-                "route": "/guide/arch_mage_fire",
-                "isExternal": false,
-                "enable": true
-            },
-            {
-                "title": "暗禁咒魔導士",
-                "subTitle": "Arch Mage",
-                "route": "/guide/arch_mage_shadow",
-                "isExternal": false,
-                "enable": true
-            },
-            {
-                "title": "謳歌樞機主教",
-                "subTitle": "Cardinal",
-                "route": "/guide/cardinal_adoramus",
-                "isExternal": false,
-                "enable": true
-            },
-            {
-                "title": "創世帝國聖衛軍",
-                "subTitle": "Imperial Guard",
-                "route": "/guide/imperial_guard_genesis_ray",
-                "isExternal": false,
-                "enable": false
-            }
-        ]
-    },
-    {
-        "title": "雜談",
-        "subTitle": "Misc",
-        "icon": "mdi-comment-processing-outline",
-        "expand": true,
-        "subPages": [
-            {
-                "title": "法系新裝備簡評",
-                "subTitle": "New Equipment",
-                "route": "/msic/new_equipment",
-                "isExternal": false,
-                "enable": true
-            },
-            {
-                "title": "屬性優化",
-                "subTitle": "Element Optimization",
-                "route": "/msic/new_element_table",
-                "isExternal": false,
-                "enable": true
-            }
-        ]
-    },
-    {
-        "title": "聯絡",
-        "subTitle": "Contact",
-        "icon": "mdi-phone",
-        "expand": true,
-        "subPages": [
-            {
-                "title": "Youtube 頻道",
-                "subTitle": "Video",
-                "route": "https://www.youtube.com/channel/UCA95-CLz2Ipd1dduzSkkjHQ",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "Discord 頻道",
-                "subTitle": "Forum",
-                "route": "https://discord.gg/MPUhAP5",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "關於我",
-                "subTitle": "About",
-                "route": "/contact/about",
-                "isExternal": false,
-                "enable": true
-            }
-        ]
-    },
-    {
-        "title": "連結",
-        "subTitle": "Link",
-        "icon": "mdi-link",
-        "expand": true,
-        "subPages": [
-            {
-                "title": "台灣RO官方網站",
-                "subTitle": "",
-                "route": "https://ro.gnjoy.com.tw",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "韓國RO官方網站",
-                "subTitle": "",
-                "route": "https://ro.gnjoy.com/",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "RO Calculator",
-                "subTitle": "",
-                "route": "https://landgris.github.io/ROCalculator/",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "RO Stats Calculator",
-                "subTitle": "",
-                "route": "https://rocalweb.github.io/",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "Divine Pride",
-                "subTitle": "",
-                "route": "https://www.divine-pride.net/",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "轉蛋&附魔資訊",
-                "subTitle": "",
-                "route": "https://docs.google.com/spreadsheets/d/1X1IfMegyWWwwJJiEBswzOKefmrVtrXeQA4297E1MamE/edit#gid=0",
-                "isExternal": true,
-                "enable": true
-            },
-            {
-                "title": "仙境全書",
-                "subTitle": "",
-                "route": "https://cgn.netlify.app/ro/skill.html",
-                "isExternal": true,
-                "enable": true
-            }
-        ]
-    }
+  {
+    "title": "攻略",
+    "subTitle": "Guide",
+    "icon": "mdi-book-open",
+    "expand": true,
+    "hidden": false,
+    "subPages": [
+      {
+        "title": "風念禁咒魔導士",
+        "subTitle": "Arch Mage",
+        "route": "/guide/arch_mage_wind_ghost",
+        "isExternal": false,
+        "enable": true
+      },
+      {
+        "title": "火禁咒魔導士",
+        "subTitle": "Arch Mage",
+        "route": "/guide/arch_mage_fire",
+        "isExternal": false,
+        "enable": true
+      },
+      {
+        "title": "暗禁咒魔導士",
+        "subTitle": "Arch Mage",
+        "route": "/guide/arch_mage_shadow",
+        "isExternal": false,
+        "enable": true
+      },
+      {
+        "title": "謳歌樞機主教",
+        "subTitle": "Cardinal",
+        "route": "/guide/cardinal_adoramus",
+        "isExternal": false,
+        "enable": true
+      },
+      {
+        "title": "創世帝國聖衛軍",
+        "subTitle": "Imperial Guard",
+        "route": "/guide/imperial_guard_genesis_ray",
+        "isExternal": false,
+        "enable": false
+      }
+    ]
+  },
+  {
+    "title": "雜談",
+    "subTitle": "Misc",
+    "icon": "mdi-comment-processing-outline",
+    "expand": true,
+    "hidden": false,
+    "subPages": [
+      {
+        "title": "法系新裝備簡評",
+        "subTitle": "New Equipment",
+        "route": "/msic/new_equipment",
+        "isExternal": false,
+        "enable": true
+      },
+      {
+        "title": "屬性優化",
+        "subTitle": "Element Optimization",
+        "route": "/msic/new_element_table",
+        "isExternal": false,
+        "enable": true
+      }
+    ]
+  },
+  {
+    "title": "聯絡",
+    "subTitle": "Contact",
+    "icon": "mdi-phone",
+    "expand": true,
+    "hidden": false,
+    "subPages": [
+      {
+        "title": "Youtube 頻道",
+        "subTitle": "Video",
+        "route": "https://www.youtube.com/channel/UCA95-CLz2Ipd1dduzSkkjHQ",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "Discord 頻道",
+        "subTitle": "Forum",
+        "route": "https://discord.gg/MPUhAP5",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "關於我",
+        "subTitle": "About",
+        "route": "/contact/about",
+        "isExternal": false,
+        "enable": true
+      }
+    ]
+  },
+  {
+    "title": "連結",
+    "subTitle": "Link",
+    "icon": "mdi-link",
+    "expand": true,
+    "hidden": false,
+    "subPages": [
+      {
+        "title": "台灣RO官方網站",
+        "subTitle": "",
+        "route": "https://ro.gnjoy.com.tw",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "韓國RO官方網站",
+        "subTitle": "",
+        "route": "https://ro.gnjoy.com/",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "RO Calculator",
+        "subTitle": "",
+        "route": "https://landgris.github.io/ROCalculator/",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "RO Stats Calculator",
+        "subTitle": "",
+        "route": "https://rocalweb.github.io/",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "Divine Pride",
+        "subTitle": "",
+        "route": "https://www.divine-pride.net/",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "轉蛋&附魔資訊",
+        "subTitle": "",
+        "route": "https://docs.google.com/spreadsheets/d/1X1IfMegyWWwwJJiEBswzOKefmrVtrXeQA4297E1MamE/edit#gid=0",
+        "isExternal": true,
+        "enable": true
+      },
+      {
+        "title": "仙境全書",
+        "subTitle": "",
+        "route": "https://cgn.netlify.app/ro/skill.html",
+        "isExternal": true,
+        "enable": true
+      }
+    ]
+  },
+  {
+    "title": "管理",
+    "subTitle": "Admin",
+    "icon": "mdi-cog",
+    "expand": true,
+    "hidden": true,
+    "subPages": [
+      {
+        "title": "裝備管理",
+        "subTitle": "About",
+        "route": "/admin/equipment_database_management",
+        "isExternal": false,
+        "enable": true
+      },
+      {
+        "title": "攻略管理",
+        "subTitle": "About",
+        "route": "/admin/guide_database_management",
+        "isExternal": false,
+        "enable": true
+      }
+    ]
+  }
 ]
