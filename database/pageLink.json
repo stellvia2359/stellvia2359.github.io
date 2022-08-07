@@ -163,14 +163,14 @@
     "subPages": [
       {
         "title": "裝備管理",
-        "subTitle": "About",
+        "subTitle": "Equipment DB Mgmt.",
         "route": "/admin/equipment_database_management",
         "isExternal": false,
         "enable": true
       },
       {
         "title": "攻略管理",
-        "subTitle": "About",
+        "subTitle": "Guide DB Mgmt.",
         "route": "/admin/guide_database_management",
         "isExternal": false,
         "enable": true
