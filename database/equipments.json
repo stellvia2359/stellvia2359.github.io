@@ -1876,6 +1876,37 @@
           ]
         },
         {
+          "id": "0631520e-ddff-4b08-b737-2fb753aa0524",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=175444"
+            }
+          ],
+          "imgNames": ["192.png"],
+          "infos": [
+            {
+              "enchantments": [{ "name": "技能後延遲Lv1", "detail": [] }],
+              "position": "頭下",
+              "value": "0",
+              "weight": "30",
+              "requiresLevel": "1",
+              "equipmentLevel": 1,
+              "usableBy": "全職業",
+              "contents": [
+                "魔法攻擊時, 以1%機率10秒內每秒HP恢復400、SP恢復80。",
+                "<span class=\"text-red\">該物品不可與其他帳號交易</span>"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "head-bottom",
+          "name": "愛戀的感覺",
+          "slots": 0,
+          "available": true,
+          "loot": "活動"
+        },
+        {
           "id": "8f42b002-240f-4ef8-85b2-61a4b1dd0a64",
           "imgNames": ["23.png"],
           "name": "夢魘古城旁觀者",
