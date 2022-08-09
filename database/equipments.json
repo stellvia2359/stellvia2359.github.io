@@ -678,6 +678,98 @@
           ]
         },
         {
+          "id": "3bd31534-6da9-4682-bb8f-6a495ece9371",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=145324"
+            }
+          ],
+          "imgNames": ["194.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "頭具",
+              "position": "頭上",
+              "value": "10",
+              "weight": "10",
+              "equipmentLevel": 1,
+              "requiresLevel": "190",
+              "usableBy": "全職業",
+              "contents": [
+                "用塔諾斯武器和套裝製作而成的魔法頭盔。",
+                "具有提高魔法系列塔諾斯武器性能的效果。。",
+                "精煉每+3時，MATK+4%。",
+                "精煉+7時，變動詠唱-10%。",
+                "精煉+9時，全屬性魔法傷害+10%。",
+                "精煉+11時，對全屬性敵人的魔法傷害+15%。",
+                "",
+                "搭配塔諾斯雙手杖-AD時，",
+                "對全體型敵人的魔法傷害+10%，武器精煉每+2時，碧血隕石傷害+10%。",
+                "搭配塔諾斯魔杖-AD時，",
+                "對全種族怪(玩家型除外)的魔法傷害+10%，武器精煉每+2時，聖槍刺擊傷害+10%。",
+                "搭配塔諾斯短劍-AD時，",
+                "全屬性魔法傷害+10%，武器精煉每+2時，超自然波傷害+10%。",
+                "",
+                "去找[特種裝備研究員]可升級武器。"
+              ]
+            }
+          ],
+          "relatedIds": ["e37903bb-888b-41f0-8db3-89794087c2d4"],
+          "categoryCode": "head-top",
+          "name": "塔諾斯魔法頭盔",
+          "slots": 1,
+          "available": true,
+          "loot": "轉蛋"
+        },
+        {
+          "id": "f62fd219-9b21-4473-ba2c-94ab1428b575",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=145324"
+            }
+          ],
+          "imgNames": ["195.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "頭具",
+              "position": "頭上",
+              "value": "10",
+              "weight": "10",
+              "equipmentLevel": 2,
+              "requiresLevel": "190",
+              "usableBy": "全職業",
+              "contents": [
+                "用塔諾斯武器和套裝製作而成的魔法頭盔。",
+                "經改良後更具有提高魔法系列塔諾斯武器性能的效果。",
+                "精煉每+3時，MATK+5%。",
+                "精煉+7時，變動詠唱-15%。",
+                "精煉+9時，全屬性魔法傷害+15%。",
+                "精煉+11時，對全屬性敵人的魔法傷害+15%，固定詠唱-0.2秒。",
+                "",
+                "搭配塔諾斯雙手杖-AD時，",
+                "對全體型敵人的魔法傷害+15%，武器精煉每+2時，碧血隕石傷害+12%。",
+                "搭配塔諾斯魔杖-AD時，",
+                "對全種族怪(玩家型除外)的魔法傷害+15%，武器精煉每+2時，聖槍刺擊傷害+12%。",
+                "搭配塔諾斯短劍-AD時，",
+                "全屬性魔法傷害+15%，武器精煉每+2時，超自然波傷害+12%。",
+                "",
+                "[階級別追加能力]",
+                "[D階級]全屬性魔法傷害+5%。",
+                "[C階級]SPL+2，S.MATK+ 2。"
+              ]
+            }
+          ],
+          "relatedIds": ["e37903bb-888b-41f0-8db3-89794087c2d4"],
+          "categoryCode": "head-top",
+          "name": "塔諾斯魔法頭盔-LT",
+          "slots": 1,
+          "available": true,
+          "loot": "塔諾斯魔法頭盔改造"
+        },
+        {
           "id": "8e90a449-5dc9-4247-8910-ac94a64ba585",
           "imgNames": ["179.png"],
           "name": "聖魔導天蠍之盔",
@@ -1280,6 +1372,42 @@
           ]
         },
         {
+          "id": "ea147859-08b9-4f0e-878a-0725d39b94f0",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=175444"
+            }
+          ],
+          "imgNames": ["191.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "position": "頭中",
+              "value": "0",
+              "weight": "10",
+              "equipmentLevel": 1,
+              "requiresLevel": "1",
+              "usableBy": "全職業",
+              "contents": [
+                "不論經過多少日夜，仍不忘給予彼此的約定，我們…約定好了喔!",
+                "",
+                "技能後延遲-5%。",
+                "物理/魔法攻擊時，有機率5秒內技能後延遲再-15%。",
+                "<span class=\"text-red\">該物品不可與其他帳號交易</span>"
+              ],
+              "class": "頭具"
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "head-middle",
+          "name": "約定紅暈",
+          "slots": 0,
+          "available": true,
+          "loot": "活動",
+          "category": "頭中"
+        },
+        {
           "id": "9ef44931-4623-4029-b9aa-ca64f69c9f1f",
           "imgNames": ["46.png"],
           "name": "眼鏡",
@@ -1358,6 +1486,53 @@
               "enchantments": []
             }
           ]
+        },
+        {
+          "id": "53827a9f-6c5c-49ba-aaee-e8284f468ea5",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=175444"
+            }
+          ],
+          "imgNames": ["190.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "position": "頭中",
+              "value": "0",
+              "weight": "10",
+              "equipmentLevel": 1,
+              "requiresLevel": "90",
+              "usableBy": "全職業",
+              "contents": [
+                "搭配愛心泡泡糖或愛戀的感覺時，",
+                "基本屬性STR/LUK的總和每+120時，",
+                "對全階級的物理傷害+1%，",
+                "Cri+5、",
+                "暴擊傷害+2%。",
+                "",
+                "基本屬性INT/DEX的總和每+120時，",
+                "MATK+15、",
+                "固定詠唱-5%，",
+                "治癒量恢復+10%。",
+                "",
+                "基本屬性AGI/VIT的總和每+120時，",
+                "攻擊速度增加(攻擊後延遲-2%)，",
+                "MAXHP+2%。",
+                "",
+                "<span class=\"text-red\">該物品不可與其他帳號交易</span>"
+              ],
+              "class": "頭具"
+            }
+          ],
+          "relatedIds": ["0631520e-ddff-4b08-b737-2fb753aa0524"],
+          "categoryCode": "head-middle",
+          "name": "愛情紅暈",
+          "slots": 1,
+          "available": true,
+          "loot": "活動",
+          "category": "頭中"
         },
         {
           "id": "0607293b-06f9-4b39-9f52-8de29ca25b94",
@@ -1896,15 +2071,17 @@
               "contents": [
                 "魔法攻擊時, 以1%機率10秒內每秒HP恢復400、SP恢復80。",
                 "<span class=\"text-red\">該物品不可與其他帳號交易</span>"
-              ]
+              ],
+              "class": "頭具"
             }
           ],
-          "relatedIds": [],
+          "relatedIds": ["53827a9f-6c5c-49ba-aaee-e8284f468ea5"],
           "categoryCode": "head-bottom",
           "name": "愛戀的感覺",
           "slots": 0,
           "available": true,
-          "loot": "活動"
+          "loot": "活動",
+          "category": "頭下"
         },
         {
           "id": "8f42b002-240f-4ef8-85b2-61a4b1dd0a64",
@@ -4216,6 +4393,47 @@
           ]
         },
         {
+          "id": "92951c7c-69e4-430d-b395-38bbd9e45a50",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://forum.gamer.com.tw/Co.php?bsn=04212&sn=2879258"
+            }
+          ],
+          "imgNames": ["196.png"],
+          "infos": [
+            {
+              "enchantments": [
+                { "name": "發條(MATK)", "detail": [] },
+                { "name": "冰刃豔紅 調整裝置", "detail": [] }
+              ],
+              "class": "雙手杖",
+              "value": "150",
+              "weight": "220",
+              "equipmentLevel": 5,
+              "requiresLevel": "220",
+              "usableBy": "禁咒魔導士",
+              "contents": [
+                "不可被破壞",
+                "MATK + 290",
+                "精煉每+2時，「冰刃斬」、「豔紅魔矢」的傷害 + 6%",
+                "精煉每+3時，「水晶波爆」的傷害 + 5%",
+                "精煉每+4時，全屬性魔法傷害 + 3%",
+                "",
+                "[階級個別追加能力]",
+                "[D階級] SPL + 2",
+                "[C階級] 「冰刃斬」、「豔紅魔矢」的傷害再 + 10%",
+                "[B階級] S.MATK + 2"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "堅硬光乙太魔杖(暫譯)",
+          "slots": 2,
+          "available": false
+        },
+        {
           "id": "05e59a92-ae09-4001-aef8-93f74faa22b6",
           "imgNames": ["111.png"],
           "name": "焊接魔杖",
@@ -4358,6 +4576,59 @@
               "enchantments": []
             }
           ]
+        },
+        {
+          "id": "e37903bb-888b-41f0-8db3-89794087c2d4",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=145324"
+            },
+            {
+              "name": "附魔資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=3534"
+            }
+          ],
+          "imgNames": ["193.png"],
+          "infos": [
+            {
+              "enchantments": [
+                { "name": "技能後延遲減少 5%", "detail": [] },
+                { "name": "對首領類魔物的魔法攻擊增加 10%", "detail": [] }
+              ],
+              "class": "雙手杖",
+              "value": "150",
+              "weight": "140",
+              "equipmentLevel": 5,
+              "requiresLevel": "190",
+              "usableBy": "咒術士系列",
+              "contents": [
+                "經過亞奈德團隊精心打造而成的升級版塔諾斯雙手杖。",
+                "不可破壞。",
+                "MATK+300。",
+                "魔法攻擊時，有機率每一秒HP恢復1000/SP100，總共各4次。",
+                "精煉每+2時，MATK+10。",
+                "精煉每+3時，碧血隕石傷害+10%。",
+                "精煉+7時，技能後延遲-10%，火屬性、地屬性魔法傷害+15%。",
+                "精煉+9時，地牛翻身傷害+40%，碧血隕石傷害再+15%。",
+                "精煉+11時，對全體型敵人的魔法傷害+15%，受到全屬性敵人的物理傷害 -15%。",
+                "_",
+                "[階級個別追加能力]",
+                "[D階級]MATK+2%，焰火之徑、地層震動傷害+10%。",
+                "[C階級]MATK再+3%，S.MATK+1。",
+                "[B階級]焰火之徑、地層震動傷害再+10%。"
+              ]
+            }
+          ],
+          "relatedIds": [
+            "3bd31534-6da9-4682-bb8f-6a495ece9371",
+            "f62fd219-9b21-4473-ba2c-94ab1428b575"
+          ],
+          "categoryCode": "weapon",
+          "name": "塔諾斯雙手杖-AD",
+          "slots": 2,
+          "available": true,
+          "loot": "塔諾斯雙手杖改造"
         },
         {
           "id": "564ee988-2d78-4ac4-84d5-9010c9adc366",
@@ -4590,6 +4861,92 @@
               ]
             }
           ]
+        },
+        {
+          "id": "abbe9afb-0570-41be-bdfb-f5d02f9d9d1d",
+          "externalUrls": [],
+          "imgNames": ["197.png"],
+          "infos": [
+            {
+              "enchantments": [
+                { "name": "MATK + 70", "detail": [] },
+                { "name": "MATK + 10%", "detail": [] },
+                { "name": "對首領類魔物的魔法攻擊增加 10%", "detail": [] }
+              ],
+              "class": "雙手杖",
+              "value": "170",
+              "weight": "200",
+              "equipmentLevel": 5,
+              "requiresLevel": "230",
+              "usableBy": "禁咒魔導士",
+              "contents": [
+                "無法破壞",
+                "MATK + 300",
+                "MATK + 10%",
+                "技能「艷紅魔矢」與「冰刃斬」的傷害 + 10%",
+                "精煉值每 + 2 時，技能「碧血隕石」與「寒冰濃霧」的傷害 + 3%",
+                "精煉值達 + 7 或以上時，變動詠唱時間 - 10%",
+                "精煉值達 + 9 或以上時，技能「碧血隕石」與「寒冰濃霧」的傷害 + 25%",
+                "精煉值達 +11 或以上時，火與水屬性的魔法傷害 + 10%",
+                "",
+                "[階級個別追加能力]",
+                "[D階級]「艷紅魔矢」與「冰刃斬」的傷害 + 5%",
+                "[C階級]「艷紅魔矢」與「冰刃斬」的傷害 + 8% 且 S.MATK + 1",
+                "[B階級]「艷紅魔矢」與「冰刃斬」的傷害 + 12% 且 SPL + 2"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "懺悔的Termes(暫譯)",
+          "slots": 2,
+          "loot": "懺悔之墓"
+        },
+        {
+          "id": "0aecc371-58d0-456a-8979-aa310d67101c",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=427741"
+            }
+          ],
+          "imgNames": ["198.png"],
+          "infos": [
+            {
+              "enchantments": [
+                { "name": "MATK + 70", "detail": [] },
+                { "name": "MATK + 10%", "detail": [] },
+                { "name": "對首領類魔物魔法攻擊增加 10%", "detail": [] }
+              ],
+              "class": "雙手杖",
+              "value": "170",
+              "weight": "200",
+              "equipmentLevel": 5,
+              "requiresLevel": "230",
+              "usableBy": "禁咒魔導士",
+              "contents": [
+                "無法破壞",
+                "MATK + 300",
+                "MATK + 10%",
+                "技能「暴風加農砲」與「巨石降臨」的傷害 + 10%",
+                "精煉值每 + 2 時，技能「連鎖電擊」與「地牛翻身」的傷害 + 3%",
+                "精煉值達 + 7 或以上時，變動詠唱時間 - 10%",
+                "精煉值達 + 9 或以上時，技能「連鎖電擊」與「地牛翻身」的傷害 + 25%",
+                "精煉值達 +11 或以上時，風與地屬性的魔法傷害 + 10%",
+                "",
+                "[階級個別追加能力]",
+                "[D階級]「暴風加農砲」與「巨石降臨」的傷害 + 5%",
+                "[C階級]「暴風加農砲」與「巨石降臨」的傷害 + 8% 且 S.MATK + 1",
+                "[B階級]「暴風加農砲」與「巨石降臨」的傷害 + 12% 且 SPL + 2"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "懺悔的Virga(暫譯)",
+          "slots": 2,
+          "loot": "懺悔之墓",
+          "category": "武器"
         }
       ],
       "cards": [
