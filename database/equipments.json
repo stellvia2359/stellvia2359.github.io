@@ -1396,7 +1396,8 @@
                 "物理/魔法攻擊時，有機率5秒內技能後延遲再-15%。",
                 "<span class=\"text-red\">該物品不可與其他帳號交易</span>"
               ],
-              "class": "頭具"
+              "class": "頭具",
+              "element": ""
             }
           ],
           "relatedIds": [],
@@ -1523,7 +1524,8 @@
                 "",
                 "<span class=\"text-red\">該物品不可與其他帳號交易</span>"
               ],
-              "class": "頭具"
+              "class": "頭具",
+              "element": ""
             }
           ],
           "relatedIds": ["0631520e-ddff-4b08-b737-2fb753aa0524"],
@@ -2072,7 +2074,8 @@
                 "魔法攻擊時, 以1%機率10秒內每秒HP恢復400、SP恢復80。",
                 "<span class=\"text-red\">該物品不可與其他帳號交易</span>"
               ],
-              "class": "頭具"
+              "class": "頭具",
+              "element": ""
             }
           ],
           "relatedIds": ["53827a9f-6c5c-49ba-aaee-e8284f468ea5"],
@@ -4408,6 +4411,7 @@
                 { "name": "冰刃豔紅 調整裝置", "detail": [] }
               ],
               "class": "雙手杖",
+              "position": "",
               "value": "150",
               "weight": "220",
               "equipmentLevel": 5,
@@ -4874,6 +4878,7 @@
                 { "name": "對首領類魔物的魔法攻擊增加 10%", "detail": [] }
               ],
               "class": "雙手杖",
+              "position": "",
               "value": "170",
               "weight": "200",
               "equipmentLevel": 5,
@@ -4919,6 +4924,7 @@
                 { "name": "對首領類魔物魔法攻擊增加 10%", "detail": [] }
               ],
               "class": "雙手杖",
+              "position": "",
               "value": "170",
               "weight": "200",
               "equipmentLevel": 5,
