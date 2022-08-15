@@ -2576,7 +2576,7 @@
                   ]
                 },
                 {
-                  "name": "全自動改造模組(MATK)",
+                  "name": "全自動改造模組(Delay)",
                   "detail": [
                     "MATK+5%、MATK+75。",
                     "精煉+9時，MATK+2%",
@@ -2589,7 +2589,9 @@
           "relatedIds": [
             "7041b18f-dcab-4fe3-b3fe-66b99309c226",
             "28a304b9-c846-4b82-8eb8-dfb1f3cea2cc"
-          ]
+          ],
+          "category": "鎧甲",
+          "categoryCode": "body"
         },
         {
           "id": "7ff4b389-c319-4f5a-a600-30d7292e51c7",
@@ -4870,7 +4872,12 @@
         },
         {
           "id": "abbe9afb-0570-41be-bdfb-f5d02f9d9d1d",
-          "externalUrls": [],
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185473#itemBtn_02"
+            }
+          ],
           "imgNames": ["197.png"],
           "infos": [
             {
@@ -4905,16 +4912,18 @@
           ],
           "relatedIds": [],
           "categoryCode": "weapon",
-          "name": "懺悔的Termes(暫譯)",
+          "name": "懺悔覺醒魔杖",
           "slots": 2,
-          "loot": "懺悔之墓"
+          "loot": "懺悔之墓",
+          "category": "武器",
+          "available": true
         },
         {
           "id": "0aecc371-58d0-456a-8979-aa310d67101c",
           "externalUrls": [
             {
               "name": "相關資訊",
-              "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=427741"
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185473#itemBtn_02"
             }
           ],
           "imgNames": ["198.png"],
@@ -4951,10 +4960,11 @@
           ],
           "relatedIds": [],
           "categoryCode": "weapon",
-          "name": "懺悔的Virga(暫譯)",
+          "name": "懺悔覺醒權杖",
           "slots": 2,
           "loot": "懺悔之墓",
-          "category": "武器"
+          "category": "武器",
+          "available": true
         }
       ],
       "cards": [
