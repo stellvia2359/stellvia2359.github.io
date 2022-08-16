@@ -1123,6 +1123,34 @@
           "categoryCode": "head-top"
         },
         {
+          "id": "bf7c5986-2cf9-4348-905c-16afbe8cfdf0",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185473"
+            }
+          ],
+          "imgNames": ["null.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "卡片",
+              "position": "頭具",
+              "value": 0,
+              "weight": 1,
+              "equipmentLevel": 0,
+              "requiresLevel": 0,
+              "usableBy": "",
+              "contents": ["P.ATK+1、S.MATK+1、技能後延遲-5%。"]
+            }
+          ],
+          "relatedIds": ["fb69a0b6-ee29-40c6-ab4d-a0ce694f1f52"],
+          "categoryCode": "head-top",
+          "name": "提亞拉卡片",
+          "available": true,
+          "loot": "懺悔之墓"
+        },
+        {
           "id": "639fbb46-88e6-4d7c-a029-05da8e40ff28",
           "imgNames": ["Isaac Wigner.png"],
           "name": "愛子 魏格納卡片",
@@ -1223,6 +1251,37 @@
             "caad13bc-a1e1-49a8-9ada-d448d7088603",
             "b839a3ad-8a09-41a7-9143-12dfac7af46b"
           ]
+        },
+        {
+          "id": "fb69a0b6-ee29-40c6-ab4d-a0ce694f1f52",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185473"
+            }
+          ],
+          "imgNames": ["null.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "卡片",
+              "position": "頭具",
+              "value": 0,
+              "weight": 1,
+              "equipmentLevel": 0,
+              "requiresLevel": 0,
+              "usableBy": "",
+              "contents": [
+                "P.ATK+1、S.MATK+1、技能後延遲-5%。",
+                "搭配提亞拉卡片時，P.ATK+3、S.MATK再+3、技能後延遲再-10%。"
+              ]
+            }
+          ],
+          "relatedIds": ["bf7c5986-2cf9-4348-905c-16afbe8cfdf0"],
+          "categoryCode": "head-top",
+          "name": "薩克萊卡片",
+          "available": true,
+          "loot": "懺悔之墓"
         },
         {
           "id": "8526c86b-e49c-4250-b27e-ba8e133b6e2b",
@@ -4871,6 +4930,102 @@
           ]
         },
         {
+          "id": "7b4ef95f-ccd8-4362-ae87-847ddb2b11d4",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185473"
+            }
+          ],
+          "imgNames": ["203.png"],
+          "infos": [
+            {
+              "enchantments": [
+                { "name": "MATK + 70", "detail": [] },
+                { "name": "MATK + 10%", "detail": [] },
+                { "name": "對BOSS型敵人的魔法傷害 + 10%", "detail": [] }
+              ],
+              "class": "單手杖",
+              "position": "",
+              "value": 150,
+              "weight": 100,
+              "equipmentLevel": 5,
+              "requiresLevel": 230,
+              "usableBy": "樞機主教",
+              "contents": [
+                "蘊含著生離死別傷痛的手杖。",
+                "",
+                "不會損壞。",
+                "MATK+250、MATK+10%。",
+                "聖靈鎮魂傷害+10%。",
+                "精煉每+2時，謳歌傷害+3%。",
+                "精煉+7時，變動詠唱-10%。",
+                "精煉+9時，謳歌傷害再+30%。",
+                "精煉+11時，對全種族怪的魔法傷害+15%(玩家型除外)。",
+                "_",
+                "<sapn class=\"text-red\">[階級別追加能力]</span>",
+                "[D階級]聖靈鎮魂傷害+5%。",
+                "[C階級]聖靈鎮魂傷害再+8%、S.MATK+1。",
+                "[B階級]聖靈鎮魂傷害再+12%、SPL+1。"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "懺悔覺醒聖杖",
+          "slots": 2,
+          "available": true,
+          "loot": "懺悔之墓"
+        },
+        {
+          "id": "4771dcd1-00e0-49d2-8433-542bfb643aa2",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185473"
+            }
+          ],
+          "imgNames": ["201.png"],
+          "infos": [
+            {
+              "enchantments": [
+                { "name": "MATK + 70", "detail": [] },
+                { "name": "MATK + 10%", "detail": [] },
+                { "name": "對BOSS型敵人的魔法傷害 + 10%", "detail": [] }
+              ],
+              "class": "劍",
+              "position": "",
+              "value": 195,
+              "weight": 180,
+              "equipmentLevel": 5,
+              "requiresLevel": 230,
+              "usableBy": "帝國聖衛軍",
+              "contents": [
+                "蘊含著生離死別傷痛的劍。",
+                "",
+                "MATK+250。",
+                "MATK+10%。",
+                "聖十字雨傷害+10%。",
+                "精煉每+2時，創世之光傷害+4%。",
+                "精煉+7時，變動詠唱-10%。",
+                "精煉+9時，創世之光傷害再+25%。",
+                "精煉+11時，聖屬性魔法傷害+10%。",
+                "_",
+                "<sapn class=\"text-red\">[階級別追加能力]</span>",
+                "[D階級]聖十字雨傷害再+5%，",
+                "[C階級]聖十字雨傷害再+8%、S.MATK+1。",
+                "[B階級]聖十字雨傷害再+12%、SPL+1。"
+              ]
+            }
+          ],
+          "relatedIds": ["9754b8fb-8df2-40d0-8b31-b9612c6e9d29"],
+          "categoryCode": "weapon",
+          "name": "懺悔覺醒羅馬短劍",
+          "slots": 2,
+          "available": true,
+          "loot": "懺悔之墓"
+        },
+        {
           "id": "abbe9afb-0570-41be-bdfb-f5d02f9d9d1d",
           "externalUrls": [
             {
@@ -4894,19 +5049,21 @@
               "requiresLevel": "230",
               "usableBy": "禁咒魔導士",
               "contents": [
-                "無法破壞",
-                "MATK + 300",
-                "MATK + 10%",
-                "技能「艷紅魔矢」與「冰刃斬」的傷害 + 10%",
-                "精煉值每 + 2 時，技能「碧血隕石」與「寒冰濃霧」的傷害 + 3%",
-                "精煉值達 + 7 或以上時，變動詠唱時間 - 10%",
-                "精煉值達 + 9 或以上時，技能「碧血隕石」與「寒冰濃霧」的傷害 + 25%",
-                "精煉值達 +11 或以上時，火與水屬性的魔法傷害 + 10%",
+                "蘊含著生離死別傷痛的手杖。",
                 "",
-                "[階級個別追加能力]",
-                "[D階級]「艷紅魔矢」與「冰刃斬」的傷害 + 5%",
-                "[C階級]「艷紅魔矢」與「冰刃斬」的傷害 + 8% 且 S.MATK + 1",
-                "[B階級]「艷紅魔矢」與「冰刃斬」的傷害 + 12% 且 SPL + 2"
+                "不會損壞。",
+                "MATK+300。",
+                "MATK+10%。",
+                "豔紅魔矢、冰刃斬傷害+10%。",
+                "精煉每+2時，碧血隕石、寒冰濃霧傷害+3%。",
+                "精煉+7時，變動詠唱-10%。",
+                "精煉+9時，碧血隕石、寒冰濃霧傷害再+25%。",
+                "精煉+11時，火屬性、水屬性魔法傷害+10%。",
+                "_",
+                "<span class=\"text-red\">[階級別追加能力]</span>",
+                "[D階級]豔紅魔矢、冰刃斬傷害再+5%，",
+                "[C階級]豔紅魔矢、冰刃斬傷害再+8%、S.MATK+1。",
+                "[B階級]豔紅魔矢、冰刃斬傷害再+12%、SPL+2。"
               ]
             }
           ],
@@ -4942,19 +5099,21 @@
               "requiresLevel": "230",
               "usableBy": "禁咒魔導士",
               "contents": [
-                "無法破壞",
-                "MATK + 300",
-                "MATK + 10%",
-                "技能「暴風加農砲」與「巨石降臨」的傷害 + 10%",
-                "精煉值每 + 2 時，技能「連鎖電擊」與「地牛翻身」的傷害 + 3%",
-                "精煉值達 + 7 或以上時，變動詠唱時間 - 10%",
-                "精煉值達 + 9 或以上時，技能「連鎖電擊」與「地牛翻身」的傷害 + 25%",
-                "精煉值達 +11 或以上時，風與地屬性的魔法傷害 + 10%",
+                "蘊含著生離死別傷痛的手杖。",
                 "",
-                "[階級個別追加能力]",
-                "[D階級]「暴風加農砲」與「巨石降臨」的傷害 + 5%",
-                "[C階級]「暴風加農砲」與「巨石降臨」的傷害 + 8% 且 S.MATK + 1",
-                "[B階級]「暴風加農砲」與「巨石降臨」的傷害 + 12% 且 SPL + 2"
+                "不會損壞。",
+                "MATK+300。",
+                "MATK+10%。",
+                "暴風加農砲、巨石降臨傷害+10%。",
+                "精煉每+2時，連鎖電擊、地牛翻身傷害+3%。",
+                "精煉+7時，變動詠唱-10%。",
+                "精煉+9時，連鎖電擊、地牛翻身傷害再+25%。",
+                "精煉+11時，風屬性，地屬性魔法傷害+10%。",
+                "_",
+                "<span class=\"text-red\">[階級別追加能力]</span>",
+                "[D階級]暴風加農砲、巨石降臨傷害+5%，",
+                "[C階級]暴風加農砲、巨石降臨傷害+8%、S.MATK+1。",
+                "[B階級]暴風加農砲、巨石降臨傷害再+12%、SPL+2。"
               ]
             }
           ],
@@ -5259,6 +5418,37 @@
               "weight": 1
             }
           ]
+        },
+        {
+          "id": "3c69829d-6330-4798-ab9d-13d9b80c1bf7",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185474"
+            }
+          ],
+          "imgNames": ["null.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "卡片",
+              "position": "武器",
+              "value": 0,
+              "weight": 1,
+              "equipmentLevel": 0,
+              "requiresLevel": 0,
+              "usableBy": "",
+              "contents": [
+                "搭配單/雙手杖系列時，無視全種族(玩家型除外)的魔法防禦力10%。",
+                "精煉每+4時，再無視對敵人的魔法防禦力2%，受到全屬性對象的物理傷害+2%。"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "available": true,
+          "name": "滅絕蠕蟲卡片",
+          "loot": "飛空艇失事地"
         },
         {
           "id": "0a862245-b48b-416b-bdc6-df735d17b368",
@@ -5582,6 +5772,48 @@
               "enchantments": []
             }
           ]
+        },
+        {
+          "id": "9754b8fb-8df2-40d0-8b31-b9612c6e9d29",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185473"
+            }
+          ],
+          "imgNames": ["200.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "盾牌",
+              "position": "",
+              "value": 120,
+              "weight": 150,
+              "equipmentLevel": 2,
+              "requiresLevel": 230,
+              "usableBy": "帝國聖衛軍",
+              "contents": [
+                "未能守護而感到遺憾的盾。",
+                "",
+                "MHP+5%、MSP+5%。",
+                "精煉每+3時，DEF+50、MDEF+10。",
+                "_",
+                "<sapn class=\"text-red\">[階級別追加能力]</span>",
+                "[D階級]盾牌投擲傷害+5%。",
+                "[C階級]盾牌投擲傷害再+8%。",
+                "[B階級]盾牌投擲傷害再+12%、POW、SPL+1。",
+                "_",
+                "搭配[懺悔覺醒羅馬短劍]或[懺悔覺醒鋼矛]時，",
+                "攻擊速度增加(攻擊後延遲-10%)，受到全屬性敵人的傷害-10%。"
+              ]
+            }
+          ],
+          "relatedIds": ["4771dcd1-00e0-49d2-8433-542bfb643aa2"],
+          "categoryCode": "shield",
+          "name": "懺悔覺醒神盾",
+          "slots": 1,
+          "available": true,
+          "loot": "懺悔之墓"
         },
         {
           "id": "d2e199c3-26df-42a3-9400-8d637e63bbde",
@@ -8762,6 +8994,48 @@
           ]
         },
         {
+          "id": "4c8b571b-44a1-4191-a75d-8cc77f5e4aa8",
+          "externalUrls": [],
+          "imgNames": ["202.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "飾品",
+              "position": "",
+              "value": 0,
+              "weight": 10,
+              "equipmentLevel": 1,
+              "requiresLevel": 100,
+              "usableBy": "全職業",
+              "contents": [
+                "戴在皇家禁衛隊的手上時，魔力變會產生光芒。",
+                "技能後延遲-5%，",
+                "ATK / MATK+6%。",
+                "",
+                "當搭配「超時空頭冠(皇家禁衛隊)」時，",
+                "ATK / MATK+8%。",
+                "當頭盔精煉每+2時，",
+                "創世之光+20%、",
+                "放逐攻擊+10%。",
+                "當頭盔精煉每+3時，",
+                "瞬間斬擊+6%。",
+                "",
+                "當搭配「超時空頭冠(皇家禁衛隊)、超時空附魔寶石(STR)2Lv」或「超時空頭冠(皇家禁衛隊)、超時空附魔寶石(STR)3Lv」時，",
+                "遠距離物理傷害+10%。",
+                "",
+                "當搭配「超時空頭冠(皇家禁衛隊)、超時空附魔寶石(INT)2Lv」或「超時空頭冠(皇家禁衛隊)、超時空附魔寶石(INT)3Lv」時，",
+                "創世之光的冷卻時間-1.5秒。"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "acc",
+          "name": "皇軍圖騰戒",
+          "slots": 1,
+          "available": true,
+          "loot": "轉蛋"
+        },
+        {
           "id": "0e8056d0-dea4-43b3-ab58-c7dc69a5da99",
           "imgNames": ["188.png"],
           "name": "埃維亞墜子",
@@ -9489,6 +9763,37 @@
         }
       ],
       "cards": [
+        {
+          "id": "31063210-79d0-4826-9f71-1cfdfc1203be",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185474"
+            }
+          ],
+          "imgNames": ["null.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "卡片",
+              "position": "飾品(右)",
+              "value": 0,
+              "weight": 0,
+              "equipmentLevel": 0,
+              "requiresLevel": 0,
+              "usableBy": "",
+              "contents": [
+                "\t毒屬性、暗屬性魔法傷害+30%，",
+                "對聖屬性攻擊的抗性-10%。"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "acc",
+          "available": true,
+          "name": "不明生物卡片",
+          "loot": "飛空艇失事地"
+        },
         {
           "id": "a164563f-2434-4bd2-ab7d-ac5a149ea856",
           "imgNames": ["Scaraba.png"],
