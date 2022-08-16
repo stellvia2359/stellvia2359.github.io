@@ -520,7 +520,9 @@
               ]
             }
           ],
-          "relatedIds": ["9e6e5389-94a8-43ae-b8c5-5e7e36849479"]
+          "relatedIds": ["9e6e5389-94a8-43ae-b8c5-5e7e36849479"],
+          "category": "頭上",
+          "categoryCode": "head-top"
         },
         {
           "id": "fa7c9248-5fc4-4e9d-862b-fc5161637d87",
@@ -572,7 +574,9 @@
           "relatedIds": [
             "9e6e5389-94a8-43ae-b8c5-5e7e36849479",
             "5d65808a-374f-4d19-acd7-48e8c55c7dac"
-          ]
+          ],
+          "category": "頭上",
+          "categoryCode": "head-top"
         },
         {
           "id": "7668f0b3-6db2-4783-a15c-dc41d9c861ca",
@@ -630,6 +634,57 @@
           "categoryCode": "head-top"
         },
         {
+          "id": "f8d550cb-1363-419a-b180-afd0c02e7b76",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=3949"
+            }
+          ],
+          "imgNames": ["78.png"],
+          "infos": [
+            {
+              "contents": [
+                "使用從時間縫隙中產生的礦石和寶石加工而成的頭冠。",
+                "吸收了福金特殊的氣息而產生了力量。",
+                "<span class='text-red'>該物品不可與其它帳號交易。</span>",
+                "精煉每+2時, ATK+15。",
+                "精煉每+3時, 攻擊速度增加(攻擊後延遲-2%)。",
+                "精煉每+3時, [放逐攻擊、加農砲攻擊]傷害+15%。",
+                "精煉每+4時, 遠距離物理傷害+5%。",
+                "精煉+11時, ATK+5%。"
+              ],
+              "class": "頭具",
+              "value": 10,
+              "position": "頭上",
+              "weight": 0,
+              "element": "",
+              "equipmentLevel": 1,
+              "requiresLevel": 170,
+              "usableBy": "皇家禁衛隊系列",
+              "enchantments": [
+                { "name": "INT+4", "detail": [] },
+                {
+                  "name": "超時空附魔寶石(INT) 3Lv",
+                  "detail": [
+                    "依照頭具的精鍊每+2時，治癒量+5%。",
+                    "依照頭具的精鍊每+2時，MATK+7。",
+                    "依照頭具的精鍊每+5時，MATK+3%。"
+                  ]
+                },
+                { "name": "魔精Lv.5", "detail": ["MATK+20%，固詠 -0.5秒。"] }
+              ]
+            }
+          ],
+          "relatedIds": ["4c8b571b-44a1-4191-a75d-8cc77f5e4aa8"],
+          "categoryCode": "head-top",
+          "name": "超時空頭冠(皇家禁衛隊)",
+          "available": true,
+          "loot": "以「封印超時空頭冠 x 5」於挑戰古城門口販賣機兌換",
+          "slots": 1,
+          "category": "頭上"
+        },
+        {
           "id": "fe121c80-3f77-4b7c-a4b5-5c235fdd0053",
           "imgNames": ["78.png"],
           "name": "超時空頭冠(獵靈士)",
@@ -675,7 +730,9 @@
                 { "name": "魔精Lv.5", "detail": ["MATK+20%，固詠 -0.5秒。"] }
               ]
             }
-          ]
+          ],
+          "category": "頭上",
+          "categoryCode": "head-top"
         },
         {
           "id": "3bd31534-6da9-4682-bb8f-6a495ece9371",
@@ -1062,7 +1119,9 @@
               "position": "頭具",
               "weight": 1
             }
-          ]
+          ],
+          "category": "頭上",
+          "categoryCode": "head-top"
         },
         {
           "id": "fec8ace5-179a-4c90-885d-40b791712ed7",
@@ -1888,7 +1947,6 @@
           ],
           "relatedIds": [
             "7668f0b3-6db2-4783-a15c-dc41d9c861ca",
-            "f67cc0dd-6bb9-466a-b5a4-0c141033228a",
             "fa7c9248-5fc4-4e9d-862b-fc5161637d87"
           ]
         },
@@ -3873,6 +3931,134 @@
           ]
         },
         {
+          "id": "f67cc0dd-6bb9-466a-b5a4-0c141033228a",
+          "imgNames": ["205.png"],
+          "name": "冰川法杖(暫譯)",
+          "slots": 0,
+          "loot": "EP 19",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=432932&page=1&gothis=2884348#2884348"
+            }
+          ],
+          "infos": [
+            {
+              "enchantments": [
+                {
+                  "name": "MATK",
+                  "detail": [
+                    "精鍊每+3時，MATK+20、所有屬性的魔法傷害+5%。",
+                    "精煉+9以上時，MATK+10%。",
+                    "精煉+11以上時，S.MATK+5。",
+                    "使用雙手武器時，所有屬性的魔法傷害+10%。"
+                  ]
+                },
+                {
+                  "name": "魔法-體型",
+                  "detail": [
+                    "所有體型魔物的魔法傷害+10%。",
+                    "精煉+9以上時，\t所有體型魔物的魔法傷害+10%。",
+                    "使用雙手武器時，所有體型魔物的魔法傷害+15%。"
+                  ]
+                },
+                {
+                  "name": "元素詠唱",
+                  "detail": [
+                    "碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。",
+                    "精鍊值每+3時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+10%。",
+                    "精煉+9以上時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。",
+                    "精煉+11以上時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。"
+                  ]
+                },
+                {
+                  "name": "幻影靈魂魔法",
+                  "detail": [
+                    "神秘幻滅、靈魂連擊的傷害+10%。",
+                    "精鍊值每+4時，神秘幻滅、靈魂連擊的傷害+5%。",
+                    "精煉+9以上時，神秘幻滅、靈魂連擊的傷害+10%。"
+                  ]
+                }
+              ],
+              "class": "雙手杖",
+              "position": "",
+              "value": 150,
+              "weight": 240,
+              "equipmentLevel": 5,
+              "requiresLevel": 210,
+              "usableBy": "魔法師系列、服事系列、悟靈士系列",
+              "contents": ["Matk+290"]
+            }
+          ],
+          "relatedIds": [],
+          "category": "武器",
+          "categoryCode": "weapon"
+        },
+        {
+          "id": "b2ea10e3-1a2c-4c4b-8d59-486781de7957",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=432932&page=1&gothis=2884348#2884348"
+            }
+          ],
+          "imgNames": ["204.png"],
+          "infos": [
+            {
+              "enchantments": [
+                {
+                  "name": "MATK",
+                  "detail": [
+                    "精鍊每+3時，MATK+20、所有屬性的魔法傷害+5%。",
+                    "精煉+9以上時，MATK+10%。",
+                    "精煉+11以上時，S.MATK+5。",
+                    "使用雙手武器時，所有屬性的魔法傷害+10%。"
+                  ]
+                },
+                {
+                  "name": "魔法-體型",
+                  "detail": [
+                    "所有體型魔物的魔法傷害+10%。",
+                    "精煉+9以上時，\t所有體型魔物的魔法傷害+10%。",
+                    "使用雙手武器時，所有體型魔物的魔法傷害+15%。"
+                  ]
+                },
+                {
+                  "name": "元素詠唱",
+                  "detail": [
+                    "碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。",
+                    "精鍊值每+3時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+10%。",
+                    "精煉+9以上時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。",
+                    "精煉+11以上時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。"
+                  ]
+                },
+                {
+                  "name": "幻影靈魂魔法",
+                  "detail": [
+                    "神秘幻滅、靈魂連擊的傷害+10%。",
+                    "精鍊值每+4時，神秘幻滅、靈魂連擊的傷害+5%。",
+                    "精煉+9以上時，神秘幻滅、靈魂連擊的傷害+10%。"
+                  ]
+                }
+              ],
+              "class": "單手杖",
+              "position": "",
+              "value": 150,
+              "weight": 130,
+              "equipmentLevel": 5,
+              "requiresLevel": 210,
+              "usableBy": "初學者系列、魔法師系列、服侍系列、悟靈士系列",
+              "contents": ["Matk+230"]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "冰川魔杖(暫譯)",
+          "slots": 0,
+          "loot": "EP 19",
+          "category": "武器"
+        },
+        {
           "id": "93c7a302-2174-4b61-8c63-2b944041f56d",
           "imgNames": ["26.png"],
           "name": "向日葵少年魔杖",
@@ -4468,8 +4654,23 @@
           "infos": [
             {
               "enchantments": [
-                { "name": "發條(MATK)", "detail": [] },
-                { "name": "冰刃豔紅 調整裝置", "detail": [] }
+                {
+                  "name": "發條(MATK)",
+                  "detail": [
+                    "MATK + 15%",
+                    "根據武器的評價等級，每個等級 MATK + 5%"
+                  ]
+                },
+                {
+                  "name": "冰刃豔紅 調整裝置",
+                  "detail": [
+                    "冰刃斬、豔紅魔矢的傷害 + 5%",
+                    "[D階級] 冰刃斬、豔紅魔矢的傷害 + 3%",
+                    "[C階級] 對全體型敵人魔法傷害 + 10%",
+                    "[B階級] 冰刃斬、豔紅魔矢的傷害 + 4%",
+                    "[A階級] 冰刃斬、豔紅魔矢的傷害 + 6%"
+                  ]
+                }
               ],
               "class": "雙手杖",
               "position": "",
@@ -4496,7 +4697,8 @@
           "categoryCode": "weapon",
           "name": "堅硬光乙太魔杖(暫譯)",
           "slots": 2,
-          "available": false
+          "available": false,
+          "category": "武器"
         },
         {
           "id": "05e59a92-ae09-4001-aef8-93f74faa22b6",
@@ -7178,6 +7380,51 @@
           ]
         },
         {
+          "id": "761c659e-6033-49fe-af31-f541044dcf4e",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=185474"
+            }
+          ],
+          "imgNames": ["199.png"],
+          "infos": [
+            {
+              "enchantments": [
+                { "name": "MHP + 10%", "detail": [] },
+                { "name": "變動詠唱 + 10%", "detail": [] }
+              ],
+              "class": "鞋子",
+              "position": "",
+              "value": 50,
+              "weight": 65,
+              "equipmentLevel": 2,
+              "requiresLevel": 230,
+              "usableBy": "全職業",
+              "contents": [
+                "被神秘力量侵蝕的制式戰靴，",
+                "每當裝備者施法時，都能感覺到靴子出現反應。",
+                "_",
+                "精煉每+2時，MATK+15，治癒量+2%。",
+                "精煉每+3時，MHP+80，MSP+20。",
+                "精煉+9時，變動詠唱-7%。",
+                "精煉+11時，魔法攻擊時，以較低機率10秒內INT+ 175。",
+                "精煉+13時，全屬性魔法傷害+7%。",
+                "_",
+                "<span class=\"text-red\">[階級別追加能力]</span>",
+                "[D階級]精煉+11且魔法攻擊時，以較低機率10秒內INT再+25(共200)。",
+                "[C階級]精煉+11且魔法攻擊時，以較低機率10秒內INT再+25(共225)。"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "name": "不朽魔力戰靴",
+          "categoryCode": "shoes",
+          "slots": 1,
+          "available": true,
+          "loot": "飛空艇失事地"
+        },
+        {
           "id": "564f2045-a384-4043-9de6-876dac33c3f7",
           "imgNames": ["130.png"],
           "name": "天龍戰靴",
@@ -9028,7 +9275,7 @@
               ]
             }
           ],
-          "relatedIds": [],
+          "relatedIds": ["f8d550cb-1363-419a-b180-afd0c02e7b76"],
           "categoryCode": "acc",
           "name": "皇軍圖騰戒",
           "slots": 1,
@@ -9403,7 +9650,9 @@
           "relatedIds": [
             "7668f0b3-6db2-4783-a15c-dc41d9c861ca",
             "fa7c9248-5fc4-4e9d-862b-fc5161637d87"
-          ]
+          ],
+          "category": "飾品",
+          "categoryCode": "acc"
         },
         {
           "id": "f7f8eea9-2e6a-4994-ab79-d8fde2883428",
