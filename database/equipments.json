@@ -3955,11 +3955,11 @@
                   ]
                 },
                 {
-                  "name": "魔法-體型",
+                  "name": "魔法-屬性",
                   "detail": [
-                    "所有體型魔物的魔法傷害+10%。",
-                    "精煉+9以上時，\t所有體型魔物的魔法傷害+10%。",
-                    "使用雙手武器時，所有體型魔物的魔法傷害+15%。"
+                    "所有屬性魔物的魔法傷害+10%。",
+                    "精煉+9以上時，\t所有屬性魔物的魔法傷害+10%。",
+                    "使用雙手武器時，所有屬性魔物的魔法傷害+15%。"
                   ]
                 },
                 {
@@ -3990,7 +3990,7 @@
               "contents": ["Matk+290"]
             }
           ],
-          "relatedIds": [],
+          "relatedIds": ["efb5625d-7a63-449b-8c52-f73cfbf095b7"],
           "category": "武器",
           "categoryCode": "weapon"
         },
@@ -4016,11 +4016,11 @@
                   ]
                 },
                 {
-                  "name": "魔法-體型",
+                  "name": "魔法-屬性",
                   "detail": [
-                    "所有體型魔物的魔法傷害+10%。",
-                    "精煉+9以上時，\t所有體型魔物的魔法傷害+10%。",
-                    "使用雙手武器時，所有體型魔物的魔法傷害+15%。"
+                    "所有屬性魔物的魔法傷害+10%。",
+                    "精煉+9以上時，\t所有屬性魔物的魔法傷害+10%。",
+                    "使用雙手武器時，所有屬性魔物的魔法傷害+15%。"
                   ]
                 },
                 {
@@ -5326,6 +5326,123 @@
           "loot": "懺悔之墓",
           "category": "武器",
           "available": true
+        },
+        {
+          "id": "cd61ae12-c29c-4f40-9d38-84a0bfd02469",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=432932&page=1&gothis=2884348#2884348"
+            },
+            {
+              "name": "相關資訊",
+              "url": "https://ronews.ginyuki.com/2022/06/27/post_4920.html"
+            }
+          ],
+          "imgNames": ["207.png"],
+          "infos": [
+            {
+              "enchantments": [
+                {
+                  "name": "魔法-屬性",
+                  "detail": [
+                    "所有屬性魔物的魔法傷害+10%。",
+                    "精煉+9以上時，\t所有屬性魔物的魔法傷害+10%。",
+                    "使用雙手武器時，所有屬性魔物的魔法傷害+15%。"
+                  ]
+                },
+                {
+                  "name": "幻影靈魂魔法",
+                  "detail": [
+                    "神秘幻滅、靈魂連擊的傷害+10%。",
+                    "精鍊值每+4時，神秘幻滅、靈魂連擊的傷害+5%。",
+                    "精煉+9以上時，神秘幻滅、靈魂連擊的傷害+10%。"
+                  ]
+                },
+                {
+                  "name": "幻影靈魂魔法",
+                  "detail": [
+                    "神秘幻滅、靈魂連擊的傷害+10%。",
+                    "精鍊值每+4時，神秘幻滅、靈魂連擊的傷害+5%。",
+                    "精煉+9以上時，神秘幻滅、靈魂連擊的傷害+10%。"
+                  ]
+                }
+              ],
+              "class": "雙手杖",
+              "position": "",
+              "value": 150,
+              "weight": 240,
+              "equipmentLevel": 5,
+              "requiresLevel": 230,
+              "usableBy": "魔法師系列、服事系列、悟靈士系列",
+              "contents": ["Matk+290"]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "黯淡冰川法杖(暫譯)",
+          "loot": "EP 19",
+          "slots": 1,
+          "category": "武器"
+        },
+        {
+          "id": "542228b4-43c8-4947-acac-65f855aac3a7",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://forum.gamer.com.tw/C.php?bsn=4212&snA=432932&page=1&gothis=2884348#2884348"
+            },
+            {
+              "name": "相關資訊",
+              "url": "https://ronews.ginyuki.com/2022/06/27/post_4920.html"
+            }
+          ],
+          "imgNames": ["208.png"],
+          "infos": [
+            {
+              "enchantments": [
+                {
+                  "name": "魔法-屬性",
+                  "detail": [
+                    "所有屬性魔物的魔法傷害+10%。",
+                    "精煉+9以上時，\t所有屬性魔物的魔法傷害+10%。",
+                    "使用雙手武器時，所有屬性魔物的魔法傷害+15%。"
+                  ]
+                },
+                {
+                  "name": "元素詠唱",
+                  "detail": [
+                    "碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。",
+                    "精鍊值每+3時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+10%。",
+                    "精煉+9以上時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。",
+                    "精煉+11以上時，碧血隕石、凍僵術、連鎖閃電、地牛翻身的傷害+20%。"
+                  ]
+                },
+                {
+                  "name": "幻影靈魂魔法",
+                  "detail": [
+                    "神秘幻滅、靈魂連擊的傷害+10%。",
+                    "精鍊值每+4時，神秘幻滅、靈魂連擊的傷害+5%。",
+                    "精煉+9以上時，神秘幻滅、靈魂連擊的傷害+10%。"
+                  ]
+                }
+              ],
+              "class": "單手杖",
+              "position": "",
+              "value": 150,
+              "weight": 130,
+              "equipmentLevel": 5,
+              "requiresLevel": 230,
+              "usableBy": "初學者系列、魔法師系列、服侍系列、悟靈士系列",
+              "contents": ["Matk+230"]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "黯淡冰川魔杖(暫譯)",
+          "loot": "EP 19",
+          "slots": 1,
+          "category": "武器"
         }
       ],
       "cards": [
@@ -5945,6 +6062,58 @@
               "enchantments": []
             }
           ]
+        },
+        {
+          "id": "c8466076-2201-4065-a5c8-5f1301f36baf",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=205519"
+            },
+            {
+              "name": "附魔資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=205520"
+            }
+          ],
+          "imgNames": ["70.png"],
+          "infos": [
+            {
+              "contents": [
+                "匹阿漫特為方便攻擊和防禦而使用的絨毛娃娃。",
+                "看起來還會動啊...",
+                "ATK+5%、MATK+5%。",
+                "ASPD+3。",
+                "精煉每+2時，ATK+2%、MATK+2%。",
+                "精煉+7時，攻擊速度增加(攻擊後延遲-5%)，變動詠唱-5%。",
+                "精煉+9時，近/遠距離物理傷害+7%，全屬性魔法傷害+7%。",
+                "精煉+12時，詠唱不會中斷，CRI+15。",
+                "",
+                "<span class=\"text-red\">[階級別追加能力]</span>",
+                "[D階級] 受到全屬性敵人的物理/魔法傷害-10%。",
+                "[C階級] POW+2、SPL+2。",
+                "[B階級] S.MATK+2、P.ATK+2。",
+                "[A階級] 技能後延遲-5%。"
+              ],
+              "class": "盾牌",
+              "value": 0,
+              "position": "",
+              "weight": 10,
+              "element": "",
+              "equipmentLevel": 2,
+              "requiresLevel": 160,
+              "usableBy": "全職業",
+              "enchantments": [
+                { "name": "技能後延遲 Lv.3", "detail": ["技能後延遲 -5%"] }
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "shield",
+          "name": "瘋狂兔寶寶-LT",
+          "available": true,
+          "loot": "瘋狂兔寶寶改造升級",
+          "slots": 1,
+          "category": "盾牌"
         },
         {
           "id": "aa551a8d-fe3c-4e37-a4bc-a613478c6331",
@@ -9317,7 +9486,9 @@
           "relatedIds": [
             "aa184353-d2f6-43ab-917a-bc4178404ba3",
             "6230d8f7-dbd6-47f5-bb0b-46b41ad05e99"
-          ]
+          ],
+          "category": "飾品",
+          "categoryCode": "acc"
         },
         {
           "id": "2af83e55-cb81-4a7b-8a2a-a5efb3b05af4",
@@ -9890,6 +10061,47 @@
             }
           ],
           "relatedIds": ["f32947d9-66ac-45e4-92a0-956f5beccfc6"]
+        },
+        {
+          "id": "efb5625d-7a63-449b-8c52-f73cfbf095b7",
+          "externalUrls": [],
+          "imgNames": ["206.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "飾品",
+              "position": "",
+              "value": 0,
+              "weight": 10,
+              "equipmentLevel": 1,
+              "requiresLevel": 100,
+              "usableBy": "全職業",
+              "contents": [
+                "勿忘終有一死。無論天國、地獄的靈魂都必得救贖的象徵。",
+                "",
+                "技能後延遲-5%，",
+                "MATK +6%。",
+                "",
+                "當搭配「超時空頭冠(大主教)」時，",
+                "MATK+80。",
+                "當頭盔精煉每+2時，聖靈鎮魂傷害+5%。",
+                "當頭盔精煉每+3時，謳歌傷害、審判傷害+10%。",
+                "",
+                "當搭配「超時空頭冠(大主教)、超時空附魔寶石(INT)2Lv」或「超時空頭冠(大主教)、超時空附魔寶石(INT)3Lv」時，",
+                "謳歌冷卻時間-0.3秒。",
+                "",
+                "當搭配「超時空頭冠(大主教)、超時空附魔寶石(AGI)2Lv」或「超時空頭冠(大主教)、超時空附魔寶石(AGI)3Lv」時，",
+                "技能後延遲-8%。"
+              ]
+            }
+          ],
+          "relatedIds": ["f67cc0dd-6bb9-466a-b5a4-0c141033228a"],
+          "categoryCode": "acc",
+          "name": "樞機之光",
+          "slots": 1,
+          "available": true,
+          "loot": "轉蛋",
+          "category": "飾品"
         },
         {
           "id": "1e46c2b9-f9c0-4f6e-966b-9d4e592f4595",
