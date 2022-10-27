@@ -1035,6 +1035,31 @@
           ]
         },
         {
+          "id": "92e17586-58f2-4daf-b082-4a92b2415861",
+          "imgNames": ["Jitter Bug.png"],
+          "infos": [
+            {
+              "contents": [
+                "遭受無屬性怪的物理/魔法傷害 -10%。",
+                "MaxHP+500。",
+                "搭配唱歌貝爾、演奏貝爾卡片時, 物理/魔法攻擊時有機率6秒內變身為覺醒貝爾。",
+                "變身為覺醒貝爾時, HP恢復2000, 對無屬性怪的物理/魔法傷害+200%。"
+              ],
+              "class": "卡片",
+              "position": "頭具",
+              "weight": 1
+            }
+          ],
+          "relatedIds": [
+            "924a9eab-9e64-428d-945e-822e2e047009",
+            "2d49632d-edb9-4106-bd20-c50b53e804f4"
+          ],
+          "categoryCode": "head-top",
+          "name": "吉特巴卡片",
+          "available": true,
+          "category": "頭上"
+        },
+        {
           "id": "73c82d11-42e8-4f0e-bff2-bd1d37a71093",
           "imgNames": ["Vesper.png"],
           "name": "貝思波卡片",
@@ -6663,7 +6688,8 @@
                 }
               ]
             }
-          ]
+          ],
+          "relatedIds": ["956b8fb6-5cc0-4ce9-ad7c-a649233a3b56"]
         },
         {
           "id": "1079c679-9711-461f-9ebd-c26512cbd8c6",
@@ -7938,6 +7964,51 @@
           "relatedIds": ["06935e6e-26f6-4f97-ad94-e8aa6f74f16a"]
         },
         {
+          "id": "b8efa3e4-aed5-4234-a5c0-db1bbba99067",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=215581"
+            }
+          ],
+          "imgNames": ["210.png"],
+          "infos": [
+            {
+              "contents": [
+                "偉大的英雄所穿過的改良版靴子，",
+                "能與改良的英雄武器產生共鳴。",
+                "MHP+1500、MSP+150。",
+                "LV210以上時，P.ATK+1、S.MATK+1。",
+                "精煉每+3時，MHP+1%、MSP+1%。",
+                "精煉+7時，ATK+5%、MATK+5%。",
+                "精煉+9時，CRI+5、誘導攻擊+10%、變動詠唱-5%。",
+                "精煉+11時，固定詠唱-0.8秒、技能後延遲-5%。",
+                "",
+                "[階級別追加能力]",
+                "[D階級] RES+50、MRES+50。",
+                "[C階級] 對全屬性敵人的物理/魔法傷害+10%。",
+                "[B階級] STA+5、WIS+5。",
+                "[A階級] P.ATK+5、S.MATK+5，精煉+13時，固定詠唱再-0.2秒。"
+              ],
+              "class": "鞋子",
+              "value": 15,
+              "position": "",
+              "weight": 60,
+              "element": "",
+              "equipmentLevel": 2,
+              "requiresLevel": "190",
+              "usableBy": "全職業",
+              "enchantments": []
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "shoes",
+          "name": "英雄戰靴-LT",
+          "available": true,
+          "loot": "轉蛋",
+          "slots": 1
+        },
+        {
           "id": "8e6b622d-fa08-445a-91cd-296f972d1432",
           "imgNames": ["58.png"],
           "name": "時光智慧戰靴",
@@ -8017,7 +8088,18 @@
               "equipmentLevel": 1,
               "requiresLevel": 100,
               "usableBy": "全職業",
-              "enchantments": []
+              "enchantments": [
+                {
+                  "name": "攻擊後延遲Lv.4",
+                  "detail": ["攻擊速度增加。(攻擊後延遲 -10%)"]
+                },
+                {
+                  "name": "暴走魔法",
+                  "detail": [
+                    "魔法攻擊時有較低機率10秒內獲得暴走魔法的能量(2%機率INT+200)，但每秒會減少SP200，卸除裝備時，SP扣2000。"
+                  ]
+                }
+              ]
             }
           ],
           "relatedIds": [
@@ -8028,7 +8110,74 @@
             "e1f44aef-ff39-4bb3-985c-9612bb080852",
             "0238f086-d217-4e0d-87c3-2068b4f1ee0b",
             "0fc110ff-c400-4c15-abd5-57904414cdeb"
-          ]
+          ],
+          "category": "鞋靴",
+          "categoryCode": "shoes"
+        },
+        {
+          "id": "defca5be-00ca-4570-a950-62e1005ce3bd",
+          "externalUrls": [
+            {
+              "name": "相關資訊",
+              "url": "https://ro.gnjoy.com.tw/notice/notice_view.aspx?id=205519"
+            }
+          ],
+          "imgNames": ["209.png"],
+          "infos": [
+            {
+              "contents": [
+                "MaxHP+15%、MaxSP+5%。",
+                "精煉+10時，",
+                "基本屬性Str108以上時，ATK+80。",
+                "基本屬性Agi108以上時，ASPD+2.",
+                "基本屬性Vit108以上時，MaxHP+10%。",
+                "基本屬性Int108以上時，MATK+80。",
+                "基本屬性Dex108以上時，固定詠唱-0.5秒，遠距離物理傷害+10%。",
+                "基本屬性Luk108以上時，暴擊傷害+35%。",
+                "",
+                "精煉+13時，",
+                "特性素質Pow60以上時，對全體型對象的物理傷害+15%。",
+                "特性素質Sta60以上時，技能後延遲-5%、P.ATK+15。",
+                "特性素質Wis60以上時，技能後延遲-5%、S.MATK+15。",
+                "特性素質Spl60以上時，對全體型對象的魔法傷害+15%。",
+                "特性素質Con60以上時，攻擊速度增加(攻擊後延遲-10%)。",
+                "特性素質Crt60以上時，固定詠唱再-0.2秒、暴擊傷害+10%。",
+                "",
+                "[階級別追加能力]",
+                "[D階級] RES+30、MRES+30。",
+                "[C階級] ATK / MATK+50。",
+                "[B階級] 對全種族對象的物理/魔法傷害+15%。",
+                "[A階級] P.ATK / S.MATK+7。"
+              ],
+              "class": "鞋子",
+              "value": "20",
+              "position": "",
+              "weight": "30",
+              "element": "",
+              "equipmentLevel": 2,
+              "requiresLevel": "188",
+              "usableBy": "全職業",
+              "enchantments": [
+                {
+                  "name": "攻擊後延遲Lv.4",
+                  "detail": ["攻擊速度增加。(攻擊後延遲 -10%)"]
+                },
+                {
+                  "name": "暴走魔法",
+                  "detail": [
+                    "魔法攻擊時有較低機率10秒內獲得暴走魔法的能量(2%機率INT+200)，但每秒會減少SP200，卸除裝備時，SP扣2000。"
+                  ]
+                }
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "shoes",
+          "name": "時光超越者之靴-LT",
+          "available": true,
+          "loot": "轉蛋",
+          "slots": 1,
+          "category": "鞋靴"
         },
         {
           "id": "ddcb15d5-160b-4e18-b719-beee6eeb8fb4",
@@ -8110,7 +8259,9 @@
             "f7aa8f9a-c91c-4ea1-849a-c4c4ce3068cc",
             "218f9d90-8509-405d-a676-3d9c512fcd8f",
             "b5a6b489-e298-458c-9cd1-3cde72d71242"
-          ]
+          ],
+          "category": "鞋靴",
+          "categoryCode": "shoes"
         },
         {
           "id": "b866c862-2089-401e-9aaf-05723266f186",
@@ -10347,6 +10498,28 @@
           "relatedIds": ["0e8056d0-dea4-43b3-ab58-c7dc69a5da99"]
         },
         {
+          "id": "2d49632d-edb9-4106-bd20-c50b53e804f4",
+          "imgNames": ["Singing Pere.png"],
+          "infos": [
+            {
+              "contents": [
+                "對無屬性怪的魔法傷害+20%。",
+                "搭配演奏貝爾卡片時, 殘響技能傷害+50%。"
+              ],
+              "class": "卡片",
+              "position": "飾品(左)",
+              "weight": 1
+            }
+          ],
+          "relatedIds": [
+            "92e17586-58f2-4daf-b082-4a92b2415861",
+            "924a9eab-9e64-428d-945e-822e2e047009"
+          ],
+          "categoryCode": "acc",
+          "name": "唱歌貝爾卡片",
+          "available": true
+        },
+        {
           "id": "858b8460-7060-4af0-9af3-448374dd5a49",
           "imgNames": ["Acolyte Of Chaos.png"],
           "name": "混沌服事卡片",
@@ -10406,6 +10579,28 @@
               "weight": 1
             }
           ]
+        },
+        {
+          "id": "924a9eab-9e64-428d-945e-822e2e047009",
+          "imgNames": ["Playing Pere.png"],
+          "infos": [
+            {
+              "contents": [
+                "對無屬性怪的物理傷害+20%。",
+                "搭配唱歌貝爾卡片時, 重金屬音樂技能傷害+50%。"
+              ],
+              "class": "卡片",
+              "position": "飾品(右)",
+              "weight": 1
+            }
+          ],
+          "relatedIds": [
+            "92e17586-58f2-4daf-b082-4a92b2415861",
+            "2d49632d-edb9-4106-bd20-c50b53e804f4"
+          ],
+          "categoryCode": "acc",
+          "name": "演奏貝爾卡片",
+          "available": true
         },
         {
           "id": "dfe94d2b-54f2-43e5-9ab8-d3b8be185f5d",
