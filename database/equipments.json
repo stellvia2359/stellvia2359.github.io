@@ -983,6 +983,45 @@
               "enchantments": []
             }
           ]
+        },
+        {
+          "id": "76184783-5fef-4203-b95c-6a809b1b6013",
+          "externalUrls": [],
+          "imgNames": ["211.png"],
+          "infos": [
+            {
+              "contents": [
+                "慶祝RO二十週年所規劃的帽子。",
+                "",
+                "MaxHP+2000、MaxSP+200。",
+                "精煉每+2時，ATK、MATK+20。",
+                "精煉每+3時，ATK、MATK+3%。",
+                "精煉+7時，攻擊速度增加(攻擊後延遲-10%)。",
+                "精煉+9時，近/遠距離物理攻擊傷害+10%、全屬性魔法傷害+10%。",
+                "精煉+11時，對全屬性對象的物理/魔法傷害+15%。",
+                "精煉+12時，固定詠唱-0.15秒，每精煉+1，固定詠唱再-0.15秒(精煉12起)。",
+                "",
+                "搭配「20週年慶生氣球」時，",
+                "P.ATK+5、S.MATK+5。",
+                "擊殺怪物經驗值增加10%。"
+              ],
+              "class": "頭具",
+              "value": "0",
+              "position": "頭上",
+              "weight": 10,
+              "element": "",
+              "equipmentLevel": 1,
+              "requiresLevel": "1",
+              "usableBy": "全職業",
+              "enchantments": []
+            }
+          ],
+          "relatedIds": ["1f210310-dde5-4e0b-9811-aff2a2cf48a8"],
+          "categoryCode": "head-top",
+          "name": "RO二十週年限定帽",
+          "available": true,
+          "loot": "轉蛋",
+          "slots": 1
         }
       ],
       "cards": [
@@ -1872,6 +1911,36 @@
       "overrideCategoryName": false,
       "hasCard": false,
       "items": [
+        {
+          "id": "1f210310-dde5-4e0b-9811-aff2a2cf48a8",
+          "externalUrls": [],
+          "imgNames": ["212.png"],
+          "infos": [
+            {
+              "contents": [
+                "慶祝RO二十週年所規劃的氣球。",
+                "",
+                "P.ATK / S.MATK+2，",
+                "固定詠唱-0.1秒。"
+              ],
+              "class": "頭具",
+              "value": 0,
+              "position": "頭下",
+              "weight": 10,
+              "element": "",
+              "equipmentLevel": 1,
+              "requiresLevel": "1",
+              "usableBy": "全職業",
+              "enchantments": []
+            }
+          ],
+          "relatedIds": ["76184783-5fef-4203-b95c-6a809b1b6013"],
+          "categoryCode": "head-bottom",
+          "name": "20週年慶生氣球",
+          "available": true,
+          "loot": "轉蛋",
+          "slots": 0
+        },
         {
           "id": "a9167d86-9158-46e1-a99c-bf1aa3a6e518",
           "imgNames": ["3.png"],
@@ -3877,6 +3946,48 @@
               ]
             }
           ]
+        },
+        {
+          "id": "823e87b3-f400-4420-95cd-bae4a8cba888",
+          "externalUrls": [],
+          "imgNames": ["213.png"],
+          "infos": [
+            {
+              "enchantments": [],
+              "class": "",
+              "position": "雙手杖",
+              "value": "100",
+              "weight": "100",
+              "equipmentLevel": 5,
+              "requiresLevel": "190",
+              "usableBy": "咒術士系列",
+              "contents": [
+                "相傳是某位大法師所使用，具有酷冰力量之改良版手杖。",
+                "會與英雄戰靴-LT產生共鳴。",
+                "不會損壞。",
+                "MATK+235、MATK+5%。",
+                "LV210以上時，SPL+2、S.MATK+1。",
+                "精煉每+2時，MATK+15。",
+                "精煉每+3時，凍僵術傷害+12%",
+                "精煉+7時，變動詠唱-10%，水/風/念屬性魔法傷害+15%。",
+                "精煉+9時，凍僵術技能冷卻時間-1秒，技能後延遲-5%，靈魂爆炸傷害+30%。",
+                "精煉+11時，對全體型敵人的魔法傷害+15%，連鎖電擊傷害+30%。",
+                "",
+                "搭配英雄戰靴-LT時，MATK+10%、S.MATK+2。",
+                "",
+                "[階級別追加能力]",
+                "[D階級] MATK+3%。",
+                "[C階級] 水/風/念屬性魔法傷害+15%，S.MATK+1。",
+                "[B階級] SPL+3、S.MATK+2。"
+              ]
+            }
+          ],
+          "relatedIds": [],
+          "categoryCode": "weapon",
+          "name": "水晶之淚魔杖-LT",
+          "slots": 2,
+          "available": true,
+          "loot": "轉蛋"
         },
         {
           "id": "4d949959-824f-418a-b631-6b254c867500",
